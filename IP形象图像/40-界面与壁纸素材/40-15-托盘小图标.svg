@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<defs><g id="leaf-shape"><path d="M 59 78 C 43 68 34 65 21 70 C 26 55 22 48 8 42 C 20 34 23 25 17 12 C 33 18 43 17 55 5 C 55 24 61 31 76 34 C 64 44 61 54 66 67 C 65 73 63 76 59 78 Z"/><path d="M 70 87 C 80 72 91 70 103 73 C 100 61 106 52 121 47 C 109 42 105 34 107 23 C 93 31 84 31 74 26 C 77 38 71 47 61 53 C 72 59 74 69 68 79 Z"/><path d="M 57 67 C 61 72 65 77 67 85 L 67 94 L 57 94 L 57 86 C 55 78 53 74 49 72 Z"/></g><g id="fish-shape"><path d="M 90 108 C 73 91 43 91 21 111 C 18 114 18 116 21 119 C 43 139 73 139 90 122 L 108 135 C 112 138 116 135 115 130 L 111 116 L 115 102 C 116 97 112 94 108 97 Z"/></g></defs>
+<g id="icon-color" transform="translate(40 184)"><use href="#leaf-shape" xlink:href="#leaf-shape" fill="#7DB05A"/><use href="#fish-shape" xlink:href="#fish-shape" fill="#E0B040"/></g>
+<g id="icon-white" transform="translate(192 184)"><use href="#leaf-shape" xlink:href="#leaf-shape" fill="#FFFFFF"/><use href="#fish-shape" xlink:href="#fish-shape" fill="#FFFFFF"/></g>
+<g id="icon-black" transform="translate(344 184)"><use href="#leaf-shape" xlink:href="#leaf-shape" fill="#000000"/><use href="#fish-shape" xlink:href="#fish-shape" fill="#000000"/></g>
+</svg>

@@ -1,0 +1,156 @@
+[
+  {
+    "size": 256,
+    "sha256": "55A7420AA7B60655D51A0DACECD2D41151A3439DF39EA3AD8A9304F4221B47C3",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-self.png",
+    "name": "s-self.png",
+    "id": "43-01"
+  },
+  {
+    "size": 256,
+    "sha256": "D9CE8797220DA4C1579C5E33A3EEBFFBA51E2B376CA60AB027C952775544344D",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-office.png",
+    "name": "s-office.png",
+    "id": "43-02"
+  },
+  {
+    "size": 256,
+    "sha256": "2BABD43EFE53B3C8D5E9D311E1DEB9596FD68A5B806EF8B43395ED08775848D8",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-dev.png",
+    "name": "s-dev.png",
+    "id": "43-03"
+  },
+  {
+    "size": 256,
+    "sha256": "FFA11B2295E7F844F6709B6E16F9126923634A7184EF931E50EE8DD2ACD5BB42",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-sci.png",
+    "name": "s-sci.png",
+    "id": "43-04"
+  },
+  {
+    "size": 256,
+    "sha256": "C12A13A32777E423724F77121DE375F7FEA3D250E2F21C2EAE24CB4A9DA96853",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-chat.png",
+    "name": "s-chat.png",
+    "id": "43-05"
+  },
+  {
+    "size": 256,
+    "sha256": "6A57C06230F102AA88CD5D4A5B21232E36325A6B505F9A7CB67395339F9FFF47",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-media.png",
+    "name": "s-media.png",
+    "id": "43-06"
+  },
+  {
+    "size": 256,
+    "sha256": "3E4E121E0A03FADE94CF33224FFD88DCB397BE14DBD57780B7659BCB9AAD81A6",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-sys.png",
+    "name": "s-sys.png",
+    "id": "43-07"
+  },
+  {
+    "size": 256,
+    "sha256": "0930C15DAEA13252DC3B0CD7F973F10C15F1A0D985AA211A3F7C2836C872B9E7",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-proj.png",
+    "name": "s-proj.png",
+    "id": "43-08"
+  },
+  {
+    "size": 256,
+    "sha256": "E7EACCF31D84517519B16B64575B5BBCF24DCC1FC009603206B87348BBDC39BD",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-read.png",
+    "name": "s-read.png",
+    "id": "43-09"
+  },
+  {
+    "size": 256,
+    "sha256": "F10D23C8A499EA877CFC61A449E8753E3B97150745CF6D9569029006DBFE950A",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-admin.png",
+    "name": "s-admin.png",
+    "id": "43-10"
+  },
+  {
+    "size": 256,
+    "sha256": "BC19F1C742268F67DFB7C6C0A77C817B38E3BF48464E7D4FA7155DAC15FFBCA4",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/s-sort.png",
+    "name": "s-sort.png",
+    "id": "43-11"
+  },
+  {
+    "size": 128,
+    "sha256": "2CD095CC798472539C6A99C332800A1E67368D3EDA41D4A3365F43D5448EEF26",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-self.png",
+    "name": "i-self.png",
+    "id": "44-01"
+  },
+  {
+    "size": 128,
+    "sha256": "2BC2E4FA3D9F723F0920F2DABBC264FCDD0D0C495A09B8755C25E1A16C7BAA93",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-office.png",
+    "name": "i-office.png",
+    "id": "44-02"
+  },
+  {
+    "size": 128,
+    "sha256": "1B0D416EBA3404012AFD36ABEAB49576A27046A392DD6C979121DC8B557C575A",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-dev.png",
+    "name": "i-dev.png",
+    "id": "44-03"
+  },
+  {
+    "size": 128,
+    "sha256": "6CBA93E7E8F70A9AED141C5D8B861D804E66B785870B9A5E95CF6924800871AF",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-sci.png",
+    "name": "i-sci.png",
+    "id": "44-04"
+  },
+  {
+    "size": 128,
+    "sha256": "55FC28AAF672BA57467686D8B87776E342F1A1E0D92DAFC67A7BE647CE304D76",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-chat.png",
+    "name": "i-chat.png",
+    "id": "44-05"
+  },
+  {
+    "size": 128,
+    "sha256": "0B4B8FE7F0E8858C0785BE61ED9CB8509CC04F851AC9D282A892E94625A5D3CF",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-media.png",
+    "name": "i-media.png",
+    "id": "44-06"
+  },
+  {
+    "size": 128,
+    "sha256": "A9097768E89E4C83C69A81D77DDD8E01A56316780924B1C6B2B01EFA738A54C3",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-sys.png",
+    "name": "i-sys.png",
+    "id": "44-07"
+  },
+  {
+    "size": 128,
+    "sha256": "93334976C231B5B89F2949BCF03F2AAC120B3705D5F24C2121CDBD113379768B",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-proj.png",
+    "name": "i-proj.png",
+    "id": "44-08"
+  },
+  {
+    "size": 128,
+    "sha256": "96F280F8E67FF9A70A92E48A85C57F82A6FA951C8EA31B82D1B1A3152CAB5B63",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-read.png",
+    "name": "i-read.png",
+    "id": "44-09"
+  },
+  {
+    "size": 128,
+    "sha256": "A598D9C416B36D5881892C26AE712C6344C72724DAFFBDA436E4B3C813EBB52C",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-admin.png",
+    "name": "i-admin.png",
+    "id": "44-10"
+  },
+  {
+    "size": 128,
+    "sha256": "DB314C4727366AD5C4BFE9DBF7C05399B14741EE38427B6371D3BFF7B722DD70",
+    "output_file": "IP形象图像/软件小图素材/专属桌面装饰包/i-sort.png",
+    "name": "i-sort.png",
+    "id": "44-11"
+  }
+]
