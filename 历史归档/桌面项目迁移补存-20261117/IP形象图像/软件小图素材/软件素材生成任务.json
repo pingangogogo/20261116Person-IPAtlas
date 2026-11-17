@@ -1,0 +1,3273 @@
+{
+  "total": 46,
+  "status": "complete",
+  "scope": "面向专属桌面软件的透明小图，6个系列。保留原稿并程序导出实用尺寸；不修改App代码或既有assets。",
+  "canonical_reference_paths": [
+    "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/00-角色基准/06-设定图-Q版标准形象.png",
+    "C:/Users/Administrator/Desktop/20261114个人桌面/crates/app/assets/decor/i-kimono.jpg",
+    "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/00-角色基准/04-设定图-发型与发饰细节.png"
+  ],
+  "tasks": [
+    {
+      "id": "43-01",
+      "title": "自研",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "self",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-01 自研】\n抱着一枚小齿轮，另一手轻扶一块素净的小工具板，像在展示自己做的软件工具。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-4c0017f5-b104-41fc-8c37-ed5e2f040e8f.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "D7478FF21289ED6C841EE3C1072F2CB27727A06A1C1963B5954BCA2ACBEA6721",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-01-自研.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "55A7420AA7B60655D51A0DACECD2D41151A3439DF39EA3AD8A9304F4221B47C3",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-01-自研.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          353,
+          86,
+          538,
+          1091
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-02",
+      "title": "办公",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "office",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-02-办公.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-02 办公】\n双手抱一只浅米色文件夹，夹口露一张折角纸，整齐稳妥。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-8e0ab6be-e9d6-4249-b934-ad712d29e87e.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "BD9698D1DC79AE798F82EC2472CBCE834B440569E8F04D0B8CFE2850FD369A39",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-02-办公.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "D9CE8797220DA4C1579C5E33A3EEBFFBA51E2B376CA60AB027C952775544344D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-02-办公.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "D6A3FCDC417E06C0FB74C5CFA0A230E6338E78AFAFA155926BE8C4286B72FC75",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          333,
+          77,
+          605,
+          1155
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "D6A3FCDC417E06C0FB74C5CFA0A230E6338E78AFAFA155926BE8C4286B72FC75",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-03",
+      "title": "开发",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "dev",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-03-开发.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-03 开发】\n坐着使用一台小笔记本电脑，屏幕朝人物，电脑壳上一枚很小的绿叶记号。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-6f9e6ddc-e290-433a-a2db-5ae25cbddfba.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "C15BC95B4438B38133DBD8089DB9715AEB4A9339095BE9AC74F0C1249927F209",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-03-开发.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2BABD43EFE53B3C8D5E9D311E1DEB9596FD68A5B806EF8B43395ED08775848D8",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-03-开发.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "E9F8EC45D05E30E70996EE7B08E8B34DEC216FDB3F9BA9A719724F143057ED3E",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          286,
+          91,
+          692,
+          1099
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "E9F8EC45D05E30E70996EE7B08E8B34DEC216FDB3F9BA9A719724F143057ED3E",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-04",
+      "title": "科研",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "sci",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-04-科研.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-04 科研】\n举起一个淡青玻璃锥形瓶观察，另一手轻托瓶底，瓶内仅少量淡绿色液体。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-f113ca1b-3067-4e17-8037-61a89db93c83.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "F94B627E9EFCC5AFD1F3899CEE6B5F97AEA6F053E3EDD18DA4D66FE078B925C5",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-04-科研.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "FFA11B2295E7F844F6709B6E16F9126923634A7184EF931E50EE8DD2ACD5BB42",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-04-科研.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "1CE8FCC8C4BDD8B265BF7B954589472A2D23C3009EF234435F4A0CB9C7ADD762",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          270,
+          78,
+          675,
+          1161
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "1CE8FCC8C4BDD8B265BF7B954589472A2D23C3009EF234435F4A0CB9C7ADD762",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-05",
+      "title": "通讯",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "chat",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-05-通讯.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-05 通讯】\n向前递出一架米白纸飞机，旁边仅一枚小的空白对话气泡。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-f9a835f4-2cd4-4b66-92c7-d5a30bb61766.png",
+      "width": 1216,
+      "height": 1293,
+      "exports": [
+        {
+          "sha256": "954765DFC7AA6F8351D66A17F47B1EC3805C397BA29A84C389AEBD3A81F21A3A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-05-通讯.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "C12A13A32777E423724F77121DE375F7FEA3D250E2F21C2EAE24CB4A9DA96853",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-05-通讯.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "F26FC0FF6212CFAE872B4DCBB73A5788C2E5A877264C9AC12A6EF0ECB02C6EAB",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          327,
+          63,
+          737,
+          1167
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "F26FC0FF6212CFAE872B4DCBB73A5788C2E5A877264C9AC12A6EF0ECB02C6EAB",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-06",
+      "title": "影音",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "media",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-06-影音.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-06 影音】\n戴素净的墨绿耳机，双手拿一块很小的电影场记板，板面仅空白色块不写字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-138490d8-4411-4dc3-bd38-87817f4c72f8.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "1D355B7E1C1374A8D44F93E84AF2C41AFA7306B9215BA303238163BC3DBF6A6D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-06-影音.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "6A57C06230F102AA88CD5D4A5B21232E36325A6B505F9A7CB67395339F9FFF47",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-06-影音.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "D4CF4C223DE09D903307F47BEAE410167C9818F2E9886C9C76AA2F1CB84049CB",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          322,
+          91,
+          594,
+          1157
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "D4CF4C223DE09D903307F47BEAE410167C9818F2E9886C9C76AA2F1CB84049CB",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-07",
+      "title": "系统",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "sys",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-07 系统】\n一手持短柄小扳手，一手托一枚圆润齿轮，动作安稳。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-c0224ed1-ce72-4655-b77c-8e1489cea539.png",
+      "width": 1246,
+      "height": 1263,
+      "exports": [
+        {
+          "sha256": "4D15826934E897D143F33F0AFA38447A4633C961AC0BB244DEA913AC48659D94",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-07-系统.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "3E4E121E0A03FADE94CF33224FFD88DCB397BE14DBD57780B7659BCB9AAD81A6",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-07-系统.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          335,
+          54,
+          594,
+          1149
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-08",
+      "title": "项目",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "proj",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-08 项目】\n双手打开一只浅褐色档案夹，夹上夹着一片绿叶形标签，里面只有两张齐整的纸。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-a5c16cc1-e70f-4af3-9a45-58d60d600647.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "46A5EFDF0FF14B1CD204F170053F32CB222FBCFF1B9F6C8D725B854BDB9502E3",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-08-项目.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "0930C15DAEA13252DC3B0CD7F973F10C15F1A0D985AA211A3F7C2836C872B9E7",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-08-项目.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          318,
+          59,
+          593,
+          1189
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-09",
+      "title": "资料",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "read",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-09-资料.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-09 资料】\n低头翻开一本米白小书，手指轻轻压住书页，页内只有极少装饰横线。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-54a6cf18-6081-463f-a8c4-e32d1a1f92a6.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "A236DE8D32EFE0C3C42D9F92C00D3668690A6995423349F2A9ED402D2284C8F5",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-09-资料.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "E7EACCF31D84517519B16B64575B5BBCF24DCC1FC009603206B87348BBDC39BD",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-09-资料.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "6C22C29A8B0818B68886C6EE4F41F74D8140D923C500E82237A2946DB4F4816D",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          330,
+          76,
+          554,
+          1175
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "6C22C29A8B0818B68886C6EE4F41F74D8140D923C500E82237A2946DB4F4816D",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-10",
+      "title": "事务",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "admin",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-10-事务.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-10 事务】\n拿一只小夹板核对事项，夹板上三个圆点和两条短线，不写任何文字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-f0943c28-f339-4e27-a0e5-61b5d543627e.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "15A9CCFF11B894CC3F96EA738189E5E54EB36C9EC156E703891FF66A7DCC4C22",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-10-事务.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "F10D23C8A499EA877CFC61A449E8753E3B97150745CF6D9569029006DBFE950A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-10-事务.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "65F5632F5D282EEB0076F3DEA2AABE705837CC271F1D14EA2AB1CB9DA8E11ED9",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          332,
+          74,
+          572,
+          1171
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "65F5632F5D282EEB0076F3DEA2AABE705837CC271F1D14EA2AB1CB9DA8E11ED9",
+      "review_status": "passed"
+    },
+    {
+      "id": "43-11",
+      "title": "待整理",
+      "series_id": 43,
+      "series_name": "分组角色",
+      "asset_key": "sort",
+      "software_usage": "分组标题贴纸",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/43-分组角色/原稿/43-11-待整理.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "76–124 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜43-11 待整理】\n将一张折角纸放入双层收纳托盘，另一层里只有一张纸，动作方向清楚。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-edc2d5d8-e3d0-46bf-a0fd-35ae2b503f75.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "1EDCD2A9ECE16234FB1355C8A45036A4E378B7A3171D622263E95F978850482F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\128\\43-11-待整理.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "BC19F1C742268F67DFB7C6C0A77C817B38E3BF48464E7D4FA7155DAC15FFBCA4",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\43-分组角色\\256\\43-11-待整理.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "CCA90674862260B46AF336BC4F19DA48BBA856DE0A5EBCF55A92BDC254000D11",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          269,
+          60,
+          730,
+          1128
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "CCA90674862260B46AF336BC4F19DA48BBA856DE0A5EBCF55A92BDC254000D11",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-01",
+      "title": "自研",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "self",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-01-自研.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-01 自研】\n一枚轮廓饱满的浅金小齿轮，齿轮中心为一片简洁墨绿叶子。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-62a9acba-b06d-4db5-af7f-6bcc55d50ea9.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "196FFB0974E66CAC2D054BA59F1EC4F0BE8B1A985DAA84D78BA0BC0DF8DB6721",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-01-自研.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "8B884FF098B5C39F1D165E784672B7CA358D9054E3461D99BA7E2376D4FA0EC2",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-01-自研.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2FFF605A8A49C2E90534F993FD4CF80F55558243877AC4C8B437378A162DADA8",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-01-自研.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "8187A5EBEED912F7B556622BFF0DD4E6ECEA3926A21EC429D2B3DB12EF3B7C5A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-01-自研.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2CD095CC798472539C6A99C332800A1E67368D3EDA41D4A3365F43D5448EEF26",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-01-自研.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "F658B89E48C5CF78FAC7CC56EE2D8AA8263756555CEBCA5EE21F646A0E77CB15",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          57,
+          70,
+          1136,
+          1117
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "F658B89E48C5CF78FAC7CC56EE2D8AA8263756555CEBCA5EE21F646A0E77CB15",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-02",
+      "title": "办公",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "office",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-02-办公.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-02 办公】\n两张错位叠放的米白折角纸，前面一张带一枚深绿小夹子，不画文字横线。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-4f788083-3898-4131-9e48-6d717673288c.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "629454A9E54D32F0DF2EA109AC29313ED3C855CABF911D836E040DFD9873C0A8",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-02-办公.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "F1DC0AAEF75F17E5C786C55D6CFC80D7C3484C22E6AA77722144FC919773FD1D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-02-办公.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "F99FC1ED9DD4A2DC5BDD8EDEFC6207CDF6E22447C98030E005C77C5B5C6ED590",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-02-办公.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "520AEC3D158121CBE35C3583F7CDE29B578783622319FDC8C1917F4F0140A113",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-02-办公.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2BC2E4FA3D9F723F0920F2DABBC264FCDD0D0C495A09B8755C25E1A16C7BAA93",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-02-办公.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "20E3AD15F2FC7AAB249AC3F6E557841918C111E8D9EC56FDD1FE907E9AEC778D",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          174,
+          81,
+          885,
+          1101
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "20E3AD15F2FC7AAB249AC3F6E557841918C111E8D9EC56FDD1FE907E9AEC778D",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-03",
+      "title": "开发",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "dev",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-03-开发.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-03 开发】\n一台正面简洁的墨绿小笔记本电脑，米白屏幕上只有两个朝内的短角括形终端符号。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-a73a447e-3e44-46ee-93c2-c5e6ea3eb5e1.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "FB7779B15C1E0D9FCCF831CACDF060FD2AB44DE2EDF7E07D4C2587439D713F38",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-03-开发.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "71E261D311CD70619B9A228CD860244C63E73A6621D992882518500A7EF02EE8",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-03-开发.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2CA1612249EFED0FC6CDEA404E901515ECFAD77A9343626814CA68C1B570F34D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-03-开发.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2AA0EA20C5781D1CCF51CA1420AEF8548166D21AF55E6CE0F018852D10F06DBD",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-03-开发.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "1B0D416EBA3404012AFD36ABEAB49576A27046A392DD6C979121DC8B557C575A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-03-开发.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "147628FD43DCAE7861B7F8F8368B3C8B11DE18CC19C8D64DEEF2C320E7B7D5B0",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          92,
+          238,
+          1068,
+          805
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "147628FD43DCAE7861B7F8F8368B3C8B11DE18CC19C8D64DEEF2C320E7B7D5B0",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-04",
+      "title": "科研",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "sci",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-04-科研.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-04 科研】\n一个简洁的锥形玻璃烧瓶，淡绿色液体占下半部，瓶颈清楚、无细小刻度。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-aa7cca01-c939-4c09-96fb-716800fcb041.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "07E462CAA55030B6A148F4636F825B00FCE8E34EE31860D752FF145120189BE2",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-04-科研.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "BC952C3DFB0C5CFB9C85A0C6E78A18BF72AEADD3C601F4D8864C96B75FD40B24",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-04-科研.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "A9ED6857AB0995461A90BD8BA3306A1E4D16D9847D0CEB410DD9E61CAD8A43EE",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-04-科研.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "09393CEF4E7B2E66F460742103948C4BD537BCA71F6889DF1B5641B54253C638",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-04-科研.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "6CBA93E7E8F70A9AED141C5D8B861D804E66B785870B9A5E95CF6924800871AF",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-04-科研.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "9391D0C436E5E7A940F17432C301B5D505C4FDFB31989CDF25D22544F0C40612",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          182,
+          124,
+          880,
+          1025
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "9391D0C436E5E7A940F17432C301B5D505C4FDFB31989CDF25D22544F0C40612",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-05",
+      "title": "通讯",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "chat",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-05-通讯.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-05 通讯】\n两枚饱满的空白对话气泡前后交叠，前墨绿后暖米色，不画三个点或文字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-bbf1e07d-e2ab-477c-b6ca-926c7025357b.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "C6BF9E5E04DC5A57A8F935AAAB6F4652F0A01B79F59F7A4837A8D01C0C62111E",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-05-通讯.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "4532BBB2165F88E42D911694CCD216295A08D4212A8420102B84C7E211ADCDEB",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-05-通讯.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "3CC6BD6B9817CEE96A9FF4B4A37EA76F39B5A7224498CBA7FD4320447C2C4914",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-05-通讯.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "77309114EE70448DA23486FB514CD7D4D55368F9745F38ECBA3765DC59754D3A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-05-通讯.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "55FC28AAF672BA57467686D8B87776E342F1A1E0D92DAFC67A7BE647CE304D76",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-05-通讯.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "0CBA952A064AC217B34DFA28FA7922B2590CC6A14CFC4AD44D9C04D5D41F8710",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          93,
+          178,
+          1041,
+          953
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "0CBA952A064AC217B34DFA28FA7922B2590CC6A14CFC4AD44D9C04D5D41F8710",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-06",
+      "title": "影音",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "media",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-06-影音.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-06 影音】\n一块圆角暖金色播放面板，中心一枚墨绿的实心向右三角。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-aad9f804-1bb0-46d5-b063-4dcf750c08fb.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "FEBA3292202E06F1E52C53A7F8032A9CF2854D072C0349463A71A5029B79623E",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-06-影音.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "9EB5C99A54475B20EF018698208ED424DDE5DDFD4C2CA69D3CC7B4C81023FEE1",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-06-影音.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "0301C9F67D3823EC73C3942186D2C919F34AA85671A8005644FF5415A36DBD5F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-06-影音.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "CB2F9FD265ED4E1F9BB5E8B72FBE6782566EAC95DDC759C297D28DF2E9C921DD",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-06-影音.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "0B4B8FE7F0E8858C0785BE61ED9CB8509CC04F851AC9D282A892E94625A5D3CF",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-06-影音.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "BD0233DA6F365198671CBE4ADCDE107DF5D3D3C21CB787C0F938E3A1FF4E2EFD",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          121,
+          255,
+          1008,
+          786
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "BD0233DA6F365198671CBE4ADCDE107DF5D3D3C21CB787C0F938E3A1FF4E2EFD",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-07",
+      "title": "系统",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "sys",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-07-系统.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-07 系统】\n一枚墨绿圆润齿轮，中央米白圆孔，右下角一小段浅金扳手端部。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-c.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e378-2903-7a32-a5a9-57800107ed1f\\exec-43793c5a-07c1-4edb-8cfd-bde45083d82b.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "7988EFA0296B41888C9F07EFD063CCA89B2ACDA0EBC3A5BAA7DEAC99A8F3DF1B",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-07-系统.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "D677B554FD77A2243B2F1A156FCDD11BE82BD20CC7EF2CBD20BD133ECC90E941",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-07-系统.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "DA072C6D240A82B86B0A819B6989E6B738965E65BB9BF1657F9840E05B2FE42E",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-07-系统.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "8F1DCA7D39365ED7F825998CEBE0F1443AF65E3FA51E46B14483B4968239227F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-07-系统.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "A9097768E89E4C83C69A81D77DDD8E01A56316780924B1C6B2B01EFA738A54C3",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-07-系统.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "BBAB1ADBFFF183D0A394369828C9C461A8DE5A4EE2F88917591C3B63FD5B4F41",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          57,
+          70,
+          1137,
+          1120
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "BBAB1ADBFFF183D0A394369828C9C461A8DE5A4EE2F88917591C3B63FD5B4F41",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-08",
+      "title": "项目",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "proj",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-08-项目.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-08 项目】\n一只打开少许的浅金项目文件夹，页签墨绿，正面只有一片小叶子标记。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-d132b951-6d74-4ad4-96c2-2e12cbec39e8.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "AE832FCCCE962700BE0BB2EC78EF45F8B45ABA2FA06FFAE170A8365DDBFA590F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-08-项目.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "729FB54D14503248287FF4D0A788B9519738FF65017FAC3E7E0D8820DC7AB505",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-08-项目.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "0B4D24903CF7BC8E39FAE95F90EBD26CF53FB74E6CADD7DC23B798233408BC9D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-08-项目.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "74866B40F8141F0D39054141E99071D2309B0A6ED26034001FEB659491EC4E33",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-08-项目.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "93334976C231B5B89F2949BCF03F2AAC120B3705D5F24C2121CDBD113379768B",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-08-项目.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "F5B53AF0D1AA015AB38EFF73802399D0E1D80DBA4C305B8CCD01EE5BED4B6D5B",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          133,
+          195,
+          1020,
+          889
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "F5B53AF0D1AA015AB38EFF73802399D0E1D80DBA4C305B8CCD01EE5BED4B6D5B",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-09",
+      "title": "资料",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "read",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-09-资料.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-09 资料】\n一本翻开的米白书，深褐书脊，墨绿短书签，书页没有任何文字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-90cad12a-ef34-4d45-8cc6-4cbbf6a16674.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "2D4CEF58F81238B1DBA7A7696F7F3675E44107C00256ECD54C4DD492C684C2BD",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-09-资料.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "C5A7A2C6F6744374E0C00A579B7CE634ABAED7092B8CDD35F35A1C8C46E0C53D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-09-资料.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "7C4B3E7CCC170B5B3389051DE1B3FFC0E7A2348E1B0447150EA0036149E6EA24",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-09-资料.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "B660A77726712FCDDCA0BCFA31CD7B6545D51397583B91FE796FC041C2BF986E",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-09-资料.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "96F280F8E67FF9A70A92E48A85C57F82A6FA951C8EA31B82D1B1A3152CAB5B63",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-09-资料.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "7598792B84D39A5A6CBAA1188FD587867C85E51E0B170E84DA973D2FF6760BA3",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          37,
+          264,
+          1179,
+          761
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "7598792B84D39A5A6CBAA1188FD587867C85E51E0B170E84DA973D2FF6760BA3",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-10",
+      "title": "事务",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "admin",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-10-事务.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-10 事务】\n一只圆角浅褐夹板，米白纸面上仅一个粗壮墨绿勾号，夹顶一枚小金夹。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-bef38d8d-b834-416d-a054-53bb5b28d34e.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "6CEAF32DD4E535372A26562B2B6EA75DBF42CA74508F552E150FAECAB792729C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-10-事务.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "A15A6A918809D9AF8C6DEA1CFCAC6DA015D150D2E0FD30089F8FCB65D93CC1FA",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-10-事务.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "5513B849F1C5FBA667CB396C0FD83BB537D9F374E36974C4706F6E7BE3988931",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-10-事务.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "D9932DA3E2588D1DC82B18C01936EF26070213D41FEB8AAA915FCA257EC2CB8C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-10-事务.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "A598D9C416B36D5881892C26AE712C6344C72724DAFFBDA436E4B3C813EBB52C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-10-事务.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "5BDD455EFA9E198FC02EACDC417DB419A9330987C31ADE48CCB36B57775CE385",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          171,
+          70,
+          907,
+          1136
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "5BDD455EFA9E198FC02EACDC417DB419A9330987C31ADE48CCB36B57775CE385",
+      "review_status": "passed"
+    },
+    {
+      "id": "44-11",
+      "title": "待整理",
+      "series_id": 44,
+      "series_name": "分组图标",
+      "asset_key": "sort",
+      "software_usage": "侧栏和分组标题图标",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/44-分组图标/原稿/44-11-待整理.png",
+      "transparent_background": true,
+      "reference_kind": "pattern",
+      "aspect_ratio": "1:1",
+      "display_size": "24–48 px",
+      "export_sizes": [
+        24,
+        32,
+        48,
+        64,
+        128
+      ],
+      "prompt": "【软件物件图标】只画指定物件，不画人或人物脸。方形1:1，真透明背景。供专属桌面侧栏24～32和标题30～48像素显示，所以轮廓饱满、图案一眼可辨、主体占画布80%左右、四边留8%～10%透明安全边距，核心空隙必须宽。统一低饱和墨绿、暖米、金褐、深褐色；清楚的适度深褐外轮廓、极少内线，内部极轻水彩纹理。不要复杂细节、投影、3D、纸底、光晕、圆角底板、贴纸白边、字母文字数字，单张明确要求的简单功能符号可出现。全套线宽与色块语言一致。只出一个独立图标，不出合集。参考图只用于色彩与手绘质感，不复制人物和排版。\n【本张内容｜44-11 待整理】\n一个墨绿边、暖米色面的双层收纳托盘，一张折角纸正插入上层，轮廓清楚。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-dbd26db2-70a1-4378-88f9-330932912625.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "508AE86C44A690401F885CEB88E556A21132EC40B7992A4B7AA99A8FD431202E",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\24\\44-11-待整理.png",
+          "size": 24,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "8059A2C81A83259D73D7811906E62DDB07EF7E8C9B097C270FC24CA86FBE3388",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\32\\44-11-待整理.png",
+          "size": 32,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "B04385AB7C667D76AEBDFB8E961DBD9492865414BF4586BFEC15EC5E186AC902",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\48\\44-11-待整理.png",
+          "size": 48,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "4B1A0957A16340612E292DD9CD6C648D0425ECD4D927ED02ADAB9B4F6F5481EF",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\64\\44-11-待整理.png",
+          "size": 64,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "DB314C4727366AD5C4BFE9DBF7C05399B14741EE38427B6371D3BFF7B722DD70",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\44-分组图标\\128\\44-11-待整理.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "779288DE68FEF32E0FF6268A5D2AB1247C712EB7D0F172D0D76065CF47C4D545",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          135,
+          149,
+          981,
+          973
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "779288DE68FEF32E0FF6268A5D2AB1247C712EB7D0F172D0D76065CF47C4D545",
+      "review_status": "passed"
+    },
+    {
+      "id": "45-01",
+      "title": "应用分组为空",
+      "series_id": 45,
+      "series_name": "软件空状态",
+      "asset_key": "empty-apps",
+      "software_usage": "具体软件空状态",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/45-软件空状态/原稿/45-01-应用分组为空.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜45-01 应用分组为空】\n她蹲在一个打开的圆角应用格托盘旁，托盘里只有两个空格，双手摊开，表情温柔好奇；只画她和这个空托盘。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-d63843e4-d887-4064-a2d6-ee465e7a51dd.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "6477423B788FED06F806F4817E7C8E2F92662B12950CF6F1DA3ED496AA93434A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\128\\45-01-应用分组为空.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "9A953B10E645345407B2FA987F696D97E30D2088ABCCB5EC405392BA6AF2F37F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\256\\45-01-应用分组为空.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "C73DE9C25407D09ED18EFC0D51B0FE856B9AF70A215B6B2392B3615579A9562C",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          91,
+          21,
+          1004,
+          1218
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "C73DE9C25407D09ED18EFC0D51B0FE856B9AF70A215B6B2392B3615579A9562C",
+      "review_status": "passed"
+    },
+    {
+      "id": "45-02",
+      "title": "文档分组为空",
+      "series_id": 45,
+      "series_name": "软件空状态",
+      "asset_key": "empty-documents",
+      "software_usage": "具体软件空状态",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/45-软件空状态/原稿/45-02-文档分组为空.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜45-02 文档分组为空】\n她坐着打开一只空文件夹，左右两页完全空白，低头看里面；只画她与一只空文件夹。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-50ab76f7-3177-42c8-939b-5912bbb27ec3.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "8167DCFD31708D9A58B460DA84B0DB3B72CA2FD64ECB7126BB7B556ECE7D5BAC",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\128\\45-02-文档分组为空.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "78DD8748C141A594062C838E516723F9186B40C85FE85F888BA709074C26EDF5",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\256\\45-02-文档分组为空.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "24766E39C3F4304813FCDEC749A5CE20D44AC8C4E0A0D616A38FC94E51576819",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          271,
+          30,
+          701,
+          1207
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "24766E39C3F4304813FCDEC749A5CE20D44AC8C4E0A0D616A38FC94E51576819",
+      "review_status": "passed"
+    },
+    {
+      "id": "45-03",
+      "title": "待整理已清空",
+      "series_id": 45,
+      "series_name": "软件空状态",
+      "asset_key": "inbox-clear",
+      "software_usage": "具体软件空状态",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/45-软件空状态/原稿/45-03-待整理已清空.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜45-03 待整理已清空】\n她轻松坐在收纳托盘边缘，双手张开展示完全空的托盘，微笑而安静；不撒花，不画庆典特效。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-a96fae65-57fa-4b32-8ae8-beb12c15f9c5.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "A7684910C7FDBE8180D61B34E404AEE8E1C029BF979FDD4B6793F968D546DBBC",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\128\\45-03-待整理已清空.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "02DD80ED02A983B850FCA72B4BDC599A2139907E1EB952B358029CBB19CE8245",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\256\\45-03-待整理已清空.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "886F3A71C9AB6149D9D9DDD5DD21BACA2FE4B0E56456AC2816C1357C8E1287D7",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          67,
+          38,
+          1026,
+          1189
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "886F3A71C9AB6149D9D9DDD5DD21BACA2FE4B0E56456AC2816C1357C8E1287D7",
+      "review_status": "passed"
+    },
+    {
+      "id": "45-04",
+      "title": "信息投递为空",
+      "series_id": 45,
+      "series_name": "软件空状态",
+      "asset_key": "empty-feed",
+      "software_usage": "具体软件空状态",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/45-软件空状态/原稿/45-04-信息投递为空.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜45-04 信息投递为空】\n她托腮坐在一只小小的空信件托盘旁，托盘旁竖着一枚空白信封形标记，神态耐心；只这两件道具。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-ade29991-1e7f-4f41-95c9-42ab2a1e839d.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "C42D808E149E73FDA71884E4AAF151960EADEDC07D309D3B38C913829C66711A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\128\\45-04-信息投递为空.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "56C7C12FE8BCB9E05C7081FA53D7413010A413DC002EDCD76487D48E802DB6C6",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\256\\45-04-信息投递为空.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "AF144A3DF1EF09C179FD4326CDF3BF674FF15477D878C31417AE57727186AA57",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          141,
+          105,
+          984,
+          1058
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "AF144A3DF1EF09C179FD4326CDF3BF674FF15477D878C31417AE57727186AA57",
+      "review_status": "passed"
+    },
+    {
+      "id": "45-05",
+      "title": "路径暂不可用",
+      "series_id": 45,
+      "series_name": "软件空状态",
+      "asset_key": "path-unavailable",
+      "software_usage": "具体软件空状态",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/45-软件空状态/原稿/45-05-路径暂不可用.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜45-05 路径暂不可用】\n她双手捧着一张折角文件卡片，卡片旁是一小段断开的链环，表情略疑惑而不慌张；不能画文字问号。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-94d35453-6f41-4b06-a7ea-eb2ea0bd59e3.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "AE9FC6873C35D13CB360119E5E802402DA7758C9EAF2118C2FFD9282CEACED38",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\128\\45-05-路径暂不可用.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "2ACC5EECDB1DD7E7375832AAA82433F6EBFBA313F66F3FD5495496B8A2362F49",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\256\\45-05-路径暂不可用.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "8B7BE5B1EC992FB24DC8D8031543D44C62312A786A520FB105593360BBF045C6",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          261,
+          39,
+          712,
+          1194
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "8B7BE5B1EC992FB24DC8D8031543D44C62312A786A520FB105593360BBF045C6",
+      "review_status": "passed"
+    },
+    {
+      "id": "45-06",
+      "title": "装饰尚未添加",
+      "series_id": 45,
+      "series_name": "软件空状态",
+      "asset_key": "empty-decor",
+      "software_usage": "具体软件空状态",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/45-软件空状态/原稿/45-06-装饰尚未添加.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜45-06 装饰尚未添加】\n她双手捧起一只空的小画框，框角夹一片绿叶，轻轻歪头微笑，画框中完全透明。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-b41dc8e6-7433-4cf4-8ccf-74b2e2be3f28.png",
+      "width": 1254,
+      "height": 1254,
+      "repair": "removed_unwanted_paper_halo",
+      "exports": [
+        {
+          "sha256": "9C2DF9BBF0D62DCA0104E797C8259D5E4874681DEBFD997B747591B84CE4501C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\128\\45-06-装饰尚未添加.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "9D6920940A769B9CC1B3D37B735E1FF40483D79C612D855E2014650F861A874E",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\45-软件空状态\\256\\45-06-装饰尚未添加.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "DD33F3EC0C4C5EE1C3CB9B76B60C43D7940258EC0362675AE7FE83FA6F07D30D",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          324,
+          23,
+          625,
+          1210
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "DD33F3EC0C4C5EE1C3CB9B76B60C43D7940258EC0362675AE7FE83FA6F07D30D",
+      "review_status": "passed"
+    },
+    {
+      "id": "46-01",
+      "title": "正在扫描",
+      "series_id": 46,
+      "series_name": "操作反馈",
+      "asset_key": "scanning",
+      "software_usage": "文件与配置操作反馈",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/46-操作反馈/原稿/46-01-正在扫描.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜46-01 正在扫描】\n她用一只小放大镜查看两张叠放的折角文件卡，身体微微前倾，镜片清透，卡片不写字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-fa32d254-fe75-4c29-8cd8-ce625ac5c41f.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "D9F0E17C4687171980DA87A5BF09E2C75D56D6A3FDBFEF6A6575668F564853BB",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\128\\46-01-正在扫描.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "A7375C6EBFD057B1C7B090766F04CB41DFA47301CB6985CE893B13AAE2832F78",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\256\\46-01-正在扫描.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "B59D6DDA7B7642C21A8DD4298CEDB45D58AEB18E142E7B1D478DC537F47ADDCC",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          287,
+          31,
+          667,
+          1187
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "B59D6DDA7B7642C21A8DD4298CEDB45D58AEB18E142E7B1D478DC537F47ADDCC",
+      "review_status": "passed"
+    },
+    {
+      "id": "46-02",
+      "title": "整理完成",
+      "series_id": 46,
+      "series_name": "操作反馈",
+      "asset_key": "organized",
+      "software_usage": "文件与配置操作反馈",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/46-操作反馈/原稿/46-02-整理完成.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜46-02 整理完成】\n她把一张文件卡准确放入打开的墨绿文件夹，文件夹上方只一枚小而清晰的金色勾号，表情满意。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-a976e55a-3c39-4df6-b553-5b0265c85ba3.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "27D294CE8D59032F5FBC6971EB81386F6F98B7A941F4CB9C342AA34298057212",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\128\\46-02-整理完成.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "E36C81E05A14C38B3961E4281AE4450F8CA432EF1C3E8AA09FC5F216D2AD573C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\256\\46-02-整理完成.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "4DD1FE712E1C038D23CCB2A4C4F4EFB2E7DABA1DE1C3137CFD4D9ECA66B604C7",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          291,
+          30,
+          692,
+          1195
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "4DD1FE712E1C038D23CCB2A4C4F4EFB2E7DABA1DE1C3137CFD4D9ECA66B604C7",
+      "review_status": "passed"
+    },
+    {
+      "id": "46-03",
+      "title": "重复项目",
+      "series_id": 46,
+      "series_name": "操作反馈",
+      "asset_key": "duplicate-item",
+      "software_usage": "文件与配置操作反馈",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/46-操作反馈/原稿/46-03-重复项目.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜46-03 重复项目】\n她左右手各举一张完全相同的圆角小卡片并排比较，两卡之间一枚短横向重叠记号，表情理解而非惊慌。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-65e93917-0bbe-4613-bf05-74254c88c23d.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "35C53536C2B3F2D8B65AE7322B67FB334DAB7D701CD82FEE40F2B7ADA62764D0",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\128\\46-03-重复项目.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "E81485B356F5A79E5E595D221264D4400B462E9EFF2BADD56DA52A8251717BE6",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\256\\46-03-重复项目.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "839CAAE085ABD440A70BF5A1351DD354F531145825BA3E77E95687EB95913B4E",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          321,
+          16,
+          659,
+          1227
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "839CAAE085ABD440A70BF5A1351DD354F531145825BA3E77E95687EB95913B4E",
+      "review_status": "passed"
+    },
+    {
+      "id": "46-04",
+      "title": "类型不匹配",
+      "series_id": 46,
+      "series_name": "操作反馈",
+      "asset_key": "wrong-item-type",
+      "software_usage": "文件与配置操作反馈",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/46-操作反馈/原稿/46-04-类型不匹配.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜46-04 类型不匹配】\n她拿一张圆角应用卡片对着一只带折角文档轮廓的浅金收纳槽，轻轻摇头，卡片与槽形状明显不同，无禁止文字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-c4b92848-4459-4ab0-a834-c54338d86d72.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "866E4DF94E15746467F8B411FD39714F7B555C6A0055CC1EAA65E657A0B17C1D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\128\\46-04-类型不匹配.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "B7B8593A2ED505CCE392C329F580ADDE09EE18C380371B14A199D35D48C8961D",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\256\\46-04-类型不匹配.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "C11D52883611679CB9CADABF29AD48125FB8A9CEB40A59B191636271B46B428A",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          118,
+          31,
+          970,
+          1189
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "C11D52883611679CB9CADABF29AD48125FB8A9CEB40A59B191636271B46B428A",
+      "review_status": "passed"
+    },
+    {
+      "id": "46-05",
+      "title": "启动暂失败",
+      "series_id": 46,
+      "series_name": "操作反馈",
+      "asset_key": "launch-failed",
+      "software_usage": "文件与配置操作反馈",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/46-操作反馈/原稿/46-05-启动暂失败.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜46-05 启动暂失败】\n她轻扶一张暗下去的应用小窗口，旁边一枚小琥珀三角警示记号，身体完整，表情歉意温和。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-ba536ef2-5c6c-4bba-a580-5ba3090dcecb.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "07263DABFCF7FEFE73024B2E5988AAB4D3460C23852D7B0B4778A10284BAD33B",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\128\\46-05-启动暂失败.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "3AA32C8EBCFCED45DB5247A22761FA9E8E1538FE8C46EA25947BA0FEBD237596",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\256\\46-05-启动暂失败.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "EFE7459B2419A3F059DD2E4A0678119C742EAA9C86B684BD78BC383F35045497",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          225,
+          15,
+          743,
+          1214
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "EFE7459B2419A3F059DD2E4A0678119C742EAA9C86B684BD78BC383F35045497",
+      "review_status": "passed"
+    },
+    {
+      "id": "46-06",
+      "title": "设置已保存",
+      "series_id": 46,
+      "series_name": "操作反馈",
+      "asset_key": "settings-saved",
+      "software_usage": "文件与配置操作反馈",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/46-操作反馈/原稿/46-06-设置已保存.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜46-06 设置已保存】\n她合上一本小墨绿设置册并按住封面，册旁一枚很小的浅金勾号，安心地微笑。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-root.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e1ff-4da1-7ff0-bbce-606356cad04e\\exec-56bb846e-109a-4107-b54d-7e6b29b34f24.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "E5C688996AB46B0F1F8E4189799C68C2DC63424405DB6F2F82C567702717FC69",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\128\\46-06-设置已保存.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "758E681C38B34E721A26269E5B5D116AEBDDD30E5951E34AB857215B86BF7A57",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\46-操作反馈\\256\\46-06-设置已保存.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "C8B9E364932A729BCBD222D355C66047847A4108B3FB8958328E97D53E521427",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          318,
+          43,
+          664,
+          1180
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "C8B9E364932A729BCBD222D355C66047847A4108B3FB8958328E97D53E521427",
+      "review_status": "passed"
+    },
+    {
+      "id": "47-01",
+      "title": "拖入应用",
+      "series_id": 47,
+      "series_name": "操作引导",
+      "asset_key": "guide-drop-app",
+      "software_usage": "无字操作引导",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/47-操作引导/原稿/47-01-拖入应用.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜47-01 拖入应用】\n她双手托着一张素净的圆角应用卡片，正把它送入一个墨绿描边的空圆角收纳框；框内不画文字，只有一条短向下金箭头。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:/Users/Administrator/.codex/generated_images/01a1e21c-b4f3-7252-aaf1-6d4802753baa/exec-bab58255-4093-49b4-80ac-47c0599bfe71.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "08146B071011CC234D11A3FB640CC4E4D0ABB8D0B2329398328D52D43F5ED510",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\128\\47-01-拖入应用.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "B8B0D9C7F79F8E867A5E37DCE68CCCB4EBB2B2E4A6B053822875CF2FC47A9C28",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\256\\47-01-拖入应用.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "90608D1E27395A09E235087B9B58003E9BB5C719145FB1E3281BAA6DBCAC01B8",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          342,
+          148,
+          582,
+          906
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "90608D1E27395A09E235087B9B58003E9BB5C719145FB1E3281BAA6DBCAC01B8",
+      "review_status": "passed"
+    },
+    {
+      "id": "47-02",
+      "title": "拖入文档",
+      "series_id": 47,
+      "series_name": "操作引导",
+      "asset_key": "guide-drop-doc",
+      "software_usage": "无字操作引导",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/47-操作引导/原稿/47-02-拖入文档.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜47-02 拖入文档】\n她把一张米白折角文件拖向浅褐文件夹，右手扶住文件夹口，一条短金箭头清楚朝向夹口。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-bf364b00-2f61-404f-be8a-a2b8cc43894c.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "D6E756DBE1321D5AD21B06956954F301356A8B25DB6BE2EDC4B9F187F29DA354",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\128\\47-02-拖入文档.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "0E23912A8CD2C96A871DC1A1EBDBF36ADB009C1499AE098D2D2BF4E30EF60882",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\256\\47-02-拖入文档.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "0C555D49EE75BFD05960AF10ED1D20EB4A962DB71AF62C562E4FF4E85AE1AF45",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          368,
+          158,
+          559,
+          940
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "0C555D49EE75BFD05960AF10ED1D20EB4A962DB71AF62C562E4FF4E85AE1AF45",
+      "review_status": "passed"
+    },
+    {
+      "id": "47-03",
+      "title": "组内排序",
+      "series_id": 47,
+      "series_name": "操作引导",
+      "asset_key": "guide-reorder",
+      "software_usage": "无字操作引导",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/47-操作引导/原稿/47-03-组内排序.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜47-03 组内排序】\n她双手轻移三张纵向错位的空白圆角卡片中的中间那张，只画一条简洁的上下双向箭头提示重新排序。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-132e8681-4721-405c-93be-33668eaec1dd.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "7256FE8AE99FB2277FE50BAB4FD52910886B8AB6FE9E14670B3AC0184EB19FEF",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\128\\47-03-组内排序.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "C24387C10E7D1E0234F02E90F3C15B6629CAD9FE64E0E536C578A6C7C8B6234C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\256\\47-03-组内排序.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "3A10BDD5AB8767D71AA6AFEC60FA8020DB9F921A8B3C72E195BC1AC0CAB3FCE8",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          234,
+          97,
+          779,
+          1082
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "3A10BDD5AB8767D71AA6AFEC60FA8020DB9F921A8B3C72E195BC1AC0CAB3FCE8",
+      "review_status": "passed"
+    },
+    {
+      "id": "47-04",
+      "title": "跨组整理",
+      "series_id": 47,
+      "series_name": "操作引导",
+      "asset_key": "guide-regroup",
+      "software_usage": "无字操作引导",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/47-操作引导/原稿/47-04-跨组整理.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜47-04 跨组整理】\n她将一张文件从左侧浅金小托盘移到右侧墨绿小托盘，只两个托盘和一张纸，中间短箭头向右。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-1d52b392-ba98-44e1-af52-d9136a893457.png",
+      "width": 1246,
+      "height": 1262,
+      "exports": [
+        {
+          "sha256": "CB47F67268F2CDEB4267A5139F37971137B222B0DC90A9A6654DE3E0C3F6193A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\128\\47-04-跨组整理.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "6DDD626205B08032D4BCEDF6EE90D70C95DFDCDBA6FADEFA2B9EAEBBA62A2BAE",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\256\\47-04-跨组整理.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "5D5D0470841585450E936444816B2A72EA6A828C1B7312342748E8705000C11A",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          287,
+          106,
+          678,
+          1067
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "5D5D0470841585450E936444816B2A72EA6A828C1B7312342748E8705000C11A",
+      "review_status": "passed"
+    },
+    {
+      "id": "47-05",
+      "title": "单击打开",
+      "series_id": 47,
+      "series_name": "操作引导",
+      "asset_key": "guide-open",
+      "software_usage": "无字操作引导",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/47-操作引导/原稿/47-05-单击打开.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜47-05 单击打开】\n她伸出一根食指轻点一张竖直的圆角应用卡片，指尖旁仅一道短弧线表示一次轻点；无鼠标、文字或数字。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-f10d49c9-e5c1-4472-9c76-8caef52fa51d.png",
+      "width": 1199,
+      "height": 1312,
+      "exports": [
+        {
+          "sha256": "6174770FF1606F9EBDFCC809E69A78BE99BD16017C09660180E399A4B2C073A4",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\128\\47-05-单击打开.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "3E5455B72623F3EC2F12F0E97C679A322F6D77FBBEA05F2ABB6B03C1610B85BD",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\256\\47-05-单击打开.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "8C2FA1D72C37999F7178FF5F50F4426FAAD92493AAD58F3E62EA2F3E12378E3C",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          247,
+          60,
+          700,
+          1185
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "8C2FA1D72C37999F7178FF5F50F4426FAAD92493AAD58F3E62EA2F3E12378E3C",
+      "review_status": "passed"
+    },
+    {
+      "id": "47-06",
+      "title": "更换装饰",
+      "series_id": 47,
+      "series_name": "操作引导",
+      "asset_key": "guide-decor",
+      "software_usage": "无字操作引导",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/47-操作引导/原稿/47-06-更换装饰.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "128–220 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜47-06 更换装饰】\n她将一张带小叶子图案的圆角画卡轻轻插入一个小文件夹，面向观众示范，人物和两个物件各自清楚。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-cebf5999-3c3d-4cc3-b41e-32cf876a3b36.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "096857118A99EA588504DCEFFA1D2156DB5F0D833A9B3DB527B8A43B056FB321",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\128\\47-06-更换装饰.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "E18A70AD2B93EFE014DB24755331EC530BE8E897350C35BB4C249F403119F8C2",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\47-操作引导\\256\\47-06-更换装饰.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "FEB2B44CFD59DC2696629B0612AA98F96956E2D8D78CC120DFC59C210DD28838",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          372,
+          68,
+          554,
+          1113
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "FEB2B44CFD59DC2696629B0612AA98F96956E2D8D78CC120DFC59C210DD28838",
+      "review_status": "passed"
+    },
+    {
+      "id": "48-01",
+      "title": "向左引导",
+      "series_id": 48,
+      "series_name": "窗口小助手",
+      "asset_key": "helper-left",
+      "software_usage": "窗口内轻量助手",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/48-窗口小助手/原稿/48-01-向左引导.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "64–128 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜48-01 向左引导】\n只画她自然完整的腰以上半身，身体微微面向画面左边，一手掌心朝上指向左侧空位，另一手贴在身前；半身下沿自然平缓，不画边框。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-8c2cd9c7-7e55-41eb-96d1-b009fffba692.png",
+      "width": 1312,
+      "height": 1199,
+      "exports": [
+        {
+          "sha256": "CD7A39D4319063345227637F848AA82A64CD0F4CB7143FF0DD1AF2B3FB848737",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\128\\48-01-向左引导.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "E8197D513838DE60A3BEB6B8CABEAFE6335CB78AFE10E3FFBEE8AA30108E0A72",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\256\\48-01-向左引导.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "10625C18C49031C3107B04DD6DCC40DA7C47005292D25ACFBBF38F40B0173045",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          234,
+          80,
+          952,
+          1073
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "10625C18C49031C3107B04DD6DCC40DA7C47005292D25ACFBBF38F40B0173045",
+      "review_status": "passed"
+    },
+    {
+      "id": "48-02",
+      "title": "向右引导",
+      "series_id": 48,
+      "series_name": "窗口小助手",
+      "asset_key": "helper-right",
+      "software_usage": "窗口内轻量助手",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/48-窗口小助手/原稿/48-02-向右引导.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "64–128 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜48-02 向右引导】\n只画她自然完整的腰以上半身，身体微微面向画面右边，一手掌心朝上指向右侧空位，另一手贴在身前；半身下沿自然平缓，不画边框，不镜像发饰。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-a.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-b4f3-7252-aaf1-6d4802753baa\\exec-98b9d367-c9b1-4c78-b21d-984784a8b23b.png",
+      "width": 1312,
+      "height": 1199,
+      "exports": [
+        {
+          "sha256": "D77EE32A9D163EDB4D1758D9A356C6BA0A0E09C757178DFF18FA222784C5939F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\128\\48-02-向右引导.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "AB6FC91164F7BAC31F453E564578F08B2AF6B2EA8B270532E1F5475093646F05",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\256\\48-02-向右引导.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "ABCA3149579B7F925670ACABC924B5722C3E50821C2DECB59D994AC54A45B64D",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          128,
+          52,
+          1031,
+          1125
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "ABCA3149579B7F925670ACABC924B5722C3E50821C2DECB59D994AC54A45B64D",
+      "review_status": "passed"
+    },
+    {
+      "id": "48-03",
+      "title": "轻声提醒",
+      "series_id": 48,
+      "series_name": "窗口小助手",
+      "asset_key": "helper-notice",
+      "software_usage": "窗口内轻量助手",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/48-窗口小助手/原稿/48-03-轻声提醒.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "64–128 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜48-03 轻声提醒】\n腰以上半身，她双手捧一只米白空信封，信封角一个墨绿小圆点，眼神温和看向观众，不出现感叹号。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-db249b71-2510-400d-9778-2d81669de2fc.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "2768F7044BCC6071592E1F9698253F515E52A1C4A83B33B6ED63F0D2A565869C",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\128\\48-03-轻声提醒.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "0EE5ABB684EF1F5FDBE9B8B0669BFEEB87830AF6FF22A66B1FE660E1C63CAFB3",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\256\\48-03-轻声提醒.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "802BD4A06674BC9D76285CB14326FFD40395BAD7FBB32B4A37C8692E8BB2E448",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          307,
+          122,
+          673,
+          996
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "802BD4A06674BC9D76285CB14326FFD40395BAD7FBB32B4A37C8692E8BB2E448",
+      "review_status": "passed"
+    },
+    {
+      "id": "48-04",
+      "title": "帮助说明",
+      "series_id": 48,
+      "series_name": "窗口小助手",
+      "asset_key": "helper-help",
+      "software_usage": "窗口内轻量助手",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/48-窗口小助手/原稿/48-04-帮助说明.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "64–128 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜48-04 帮助说明】\n腰以上半身，她怀抱一本翻开的墨绿小册子，另一手轻抬食指准备解释，册页不写字，不出现问号。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-df9e16eb-51a2-4057-b395-a76bd51c28b1.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "294CF5D0444AC40D9364006AD6771ECD1E6813FF9887D6E45FEF11F72A5F08DC",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\128\\48-04-帮助说明.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "8CF70704EBFE69A50A35309B0ACCDE1AAE7E663A267F6F5A042AE8E609D6AE7F",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\256\\48-04-帮助说明.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "829569D55B871F643EFAA17E71AF514FEE6666AA0BD8C2F777400DFC6E168195",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          250,
+          105,
+          757,
+          1045
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "829569D55B871F643EFAA17E71AF514FEE6666AA0BD8C2F777400DFC6E168195",
+      "review_status": "passed"
+    },
+    {
+      "id": "48-05",
+      "title": "专注陪伴",
+      "series_id": 48,
+      "series_name": "窗口小助手",
+      "asset_key": "helper-focus",
+      "software_usage": "窗口内轻量助手",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/48-窗口小助手/原稿/48-05-专注陪伴.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "64–128 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜48-05 专注陪伴】\n腰以上半身，她闭眼浅笑，双手交叠在胸前一片大而简洁的绿叶上，动作安静，周围没有任何特效和气泡。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-878724cb-02df-4c0d-8a68-d728f06d106a.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "D9F0B1F6624E138B9F668757EEE94302BAC75A97F0628089F176312EAD4445C2",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\128\\48-05-专注陪伴.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "EA357694DB4E8F5741DD5EA07F22AD8F4B4CEC712E21AAAEB280B9ADA823323B",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\256\\48-05-专注陪伴.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "087B05FDA8BD55DF377EB8D91233CD3A337B5B758DB3B8BCF064FBCE2933BFE8",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          253,
+          78,
+          768,
+          1087
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "087B05FDA8BD55DF377EB8D91233CD3A337B5B758DB3B8BCF064FBCE2933BFE8",
+      "review_status": "passed"
+    },
+    {
+      "id": "48-06",
+      "title": "休眠小憩",
+      "series_id": 48,
+      "series_name": "窗口小助手",
+      "asset_key": "helper-rest",
+      "software_usage": "窗口内轻量助手",
+      "output_file": "C:/Users/Administrator/Desktop/20261114个人桌面/IP形象图像/软件小图素材/48-窗口小助手/原稿/48-06-休眠小憩.png",
+      "transparent_background": true,
+      "reference_kind": "chibi",
+      "aspect_ratio": "1:1",
+      "display_size": "64–128 px",
+      "export_sizes": [
+        128,
+        256
+      ],
+      "prompt": "【人物身份】沿用参考06中用户认可的约2.7头身水彩Q版女子。圆润小鹅蛋脸、适中深褐眼、小高光、乌黑自然碎齐刘海、两鬓细卷发、后脑低发髻。标准暖米与炭灰褐宽条纹浴衣、白半襟、墨绿腰带。不要变成旧版大眼矮胖2头身；不要高丸子头。\n【鱼饰】必须复刻第二参考原始i-kimono.jpg中的金灰褐鱼头与很短前段，嘴眼鳃盖及色斑相似，后部藏在柊枝叶后连接；不要补成长条完整沙丁鱼、圆胖鱼体或扇尾。人物自己的左耳上方，正面在画面右边，只有一枚鱼饰和两三片深绿尖叶。\n【软件小图画风】参考的细深褐轮廓与低饱和水彩保留，但线条清楚、衣纹减少、宽条纹简化为少数宽块；少量水彩质感只在主体内部。不是海报或大场景。主体在方形画面中约占78%～84%，四边至少8%透明安全边距，包含完整发饰与所有手脚/道具；单张明确半身则按半身取景。不要纸底、光晕、地面、投影、边框、白色贴纸轮廓、外部纹理、说明字、字母数字、水印。只画一个独立状态，不画总览或多视角。PNG背景真实透明。\n【本张内容｜48-06 休眠小憩】\n她把一只米白条纹小枕头抱在胸前，头侧靠枕头、闭眼小憩，只画腰以上半身；没有Z字、泡泡、场景或地板。\n【执行】直接绘制本张独立的透明软件小图。",
+      "status": "complete",
+      "progress_file": "C:/Users/Administrator/AppData/Local/Temp/codex-ip-batches/01a1e1ff-4da1-7ff0-bbce-606356cad04e/software-b-tail.json",
+      "generated_image_path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1e21c-4f7d-7dd3-b82d-a959b024184d\\exec-47f71669-302b-47fa-834a-1ac5df826c6b.png",
+      "width": 1254,
+      "height": 1254,
+      "exports": [
+        {
+          "sha256": "6F20F7FE3B5802EA284961FFB2761449D8F5729D81C1228FAC510C9151B1A573",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\128\\48-06-休眠小憩.png",
+          "size": 128,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sha256": "24ED77B86BF5BDAD45E9216B0E4AAAE6F7B661C9E463CB360F82DD989F7AD48A",
+          "output_file": "C:\\Users\\Administrator\\Desktop\\20261114个人桌面\\IP形象图像\\软件小图素材\\48-窗口小助手\\256\\48-06-休眠小憩.png",
+          "size": 256,
+          "alpha_corners": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "export_source_sha256": "CE69B8B6B56F4B87C6A123BE18880E997AFBC432CDC042D0FC7AA3E85E8F1A19",
+      "export_layout": {
+        "method": "alpha_content_fit",
+        "alpha_threshold": 16,
+        "safe_margin_fraction": 0.08,
+        "source_bounds": [
+          182,
+          69,
+          828,
+          1118
+        ]
+      },
+      "exports_verified": true,
+      "sha256": "CE69B8B6B56F4B87C6A123BE18880E997AFBC432CDC042D0FC7AA3E85E8F1A19",
+      "review_status": "passed"
+    }
+  ],
+  "verification": {
+    "completed_at": "2026-11-16T20:43:50.7917282+08:00",
+    "native_images": 46,
+    "series": 6,
+    "sized_png_exports": 125,
+    "compatible_slot_files": 22,
+    "native_decode_and_source_sha256_verified": true,
+    "export_dimensions_alpha_and_sha256_verified": true,
+    "visual_review_native_and_actual_size_light_dark": true,
+    "source_app_assets_modified": false,
+    "issues": []
+  }
+}

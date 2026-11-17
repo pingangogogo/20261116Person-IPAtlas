@@ -1,0 +1,43 @@
+{
+    "type":  "derived-icons",
+    "entries":  [
+                    {
+                        "product":  "个人工具箱",
+                        "source":  "IP形象图像/软件小图素材/44-分组图标/原稿/44-07-系统.png",
+                        "ico":  "个人工具箱/icon.ico",
+                        "sizes":  [
+                                      16,
+                                      20,
+                                      24,
+                                      32,
+                                      40,
+                                      48,
+                                      64,
+                                      96,
+                                      128,
+                                      256
+                                  ],
+                        "margin":  "1/32, at least 1px",
+                        "sha256":  "cf065a4f6e65d8d712b5515cc1c402d15ecc7994279b6aaf8cbb2a279640f079"
+                    },
+                    {
+                        "product":  "专属桌面",
+                        "source":  "IP形象图像/软件小图素材/44-分组图标/原稿/44-11-待整理.png",
+                        "ico":  "专属桌面/icon.ico",
+                        "sizes":  [
+                                      16,
+                                      20,
+                                      24,
+                                      32,
+                                      40,
+                                      48,
+                                      64,
+                                      96,
+                                      128,
+                                      256
+                                  ],
+                        "margin":  "1/32, at least 1px",
+                        "sha256":  "2d9662b0e4ba376de0d1eaf4132433dab30f3bcc1a0b99de1584e7d3247ce439"
+                    }
+                ]
+}
