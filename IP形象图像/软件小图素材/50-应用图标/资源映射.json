@@ -1,28 +1,15 @@
 {
-    "type":  "derived-icons",
+    "type":  "derived-character-avatar-icons",
+    "generator":  "Existing ZsdeskPictures.AppIcon/IconPicture/IconFile helpers from desktop tools/decor/build.ps1; toolbox avatar is a rectangular crop with a rounded alpha clip, no character repainting",
     "entries":  [
                     {
-                        "product":  "个人工具箱",
-                        "source":  "IP形象图像/软件小图素材/44-分组图标/原稿/44-07-系统.png",
-                        "ico":  "个人工具箱/icon.ico",
-                        "sizes":  [
-                                      16,
-                                      20,
-                                      24,
-                                      32,
-                                      40,
-                                      48,
-                                      64,
-                                      96,
-                                      128,
-                                      256
-                                  ],
-                        "margin":  "1/32, at least 1px",
-                        "sha256":  "cf065a4f6e65d8d712b5515cc1c402d15ecc7994279b6aaf8cbb2a279640f079"
-                    },
-                    {
                         "product":  "专属桌面",
-                        "source":  "IP形象图像/软件小图素材/44-分组图标/原稿/44-11-待整理.png",
+                        "source":  "IP形象图像/40-界面与壁纸素材/40-14-应用图标.png",
+                        "source_sha256":  "9931fc8279f8c49384cbd4d4cdc8f470b3fb565d391375469e169e82a302cceb",
+                        "mother":  "原稿/专属桌面-微笑头像.png",
+                        "mother_sha256":  "9931fc8279f8c49384cbd4d4cdc8f470b3fb565d391375469e169e82a302cceb",
+                        "crop_pixels":  null,
+                        "rounded_corner_radius_pixels":  null,
                         "ico":  "专属桌面/icon.ico",
                         "sizes":  [
                                       16,
@@ -37,7 +24,260 @@
                                       256
                                   ],
                         "margin":  "1/32, at least 1px",
-                        "sha256":  "2d9662b0e4ba376de0d1eaf4132433dab30f3bcc1a0b99de1584e7d3247ce439"
+                        "sha256":  "a539f8adf394259cb9809c46acc2b1f656d778d23bc22c96d30d0dae795a3b59",
+                        "png":  [
+                                    {
+                                        "file":  "专属桌面/16.png",
+                                        "size":  16,
+                                        "sha256":  "70323caac8bf0994c702b56b402b4941993d19511544a986948067538ecb2652",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        14,
+                                                        14
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/20.png",
+                                        "size":  20,
+                                        "sha256":  "ac29386fc59b89bd8f2ffaafa9ae8e49dcf15910fa151f16b2700f01d432a80d",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        18,
+                                                        18
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/24.png",
+                                        "size":  24,
+                                        "sha256":  "5f78743ff6b63d7122d0367ec2698efe94b9abbb554fccf63fb73136da4364cd",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        22,
+                                                        22
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/32.png",
+                                        "size":  32,
+                                        "sha256":  "b5010e4c715f467bf4386f198e5174585fa82188dc1fc468e631fa61a17210ff",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        30,
+                                                        30
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/40.png",
+                                        "size":  40,
+                                        "sha256":  "6d62dde9b7e0f7f7f6b870df87e2947688a6324c82f7ee3753d4a49a8d304be1",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        38,
+                                                        38
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/48.png",
+                                        "size":  48,
+                                        "sha256":  "6025d576bea1a48e34adc7e57de468f107c49213b5418792bd896724ba9256f3",
+                                        "visible":  [
+                                                        2,
+                                                        2,
+                                                        44,
+                                                        44
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/64.png",
+                                        "size":  64,
+                                        "sha256":  "ce8784d1069af4fffbbc237df72ec89f4fa529306afc716864fb711110ceef2e",
+                                        "visible":  [
+                                                        2,
+                                                        2,
+                                                        59,
+                                                        60
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/96.png",
+                                        "size":  96,
+                                        "sha256":  "f0fee2345083fbdad5c8a8d0feee2bf71f269d30182c6dc2d63edd154b11f302",
+                                        "visible":  [
+                                                        4,
+                                                        3,
+                                                        88,
+                                                        90
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/128.png",
+                                        "size":  128,
+                                        "sha256":  "745fdb1c048d2cd9f5c049a5f3d40d40a631f29cec2b22f4b61ebad3911b8380",
+                                        "visible":  [
+                                                        5,
+                                                        4,
+                                                        118,
+                                                        120
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "专属桌面/256.png",
+                                        "size":  256,
+                                        "sha256":  "b6e5881659cdd0a402d6ad86025eb89d94e0b1bfcea57e1992a7ff66e3d903e9",
+                                        "visible":  [
+                                                        10,
+                                                        8,
+                                                        236,
+                                                        240
+                                                    ]
+                                    }
+                                ]
+                    },
+                    {
+                        "product":  "个人工具箱",
+                        "source":  "IP形象图像/00-角色基准/06-设定图-Q版标准形象.png",
+                        "source_sha256":  "39d5557b5b9357d4ba09c2e77c4d774c1714a03f1a40cdd94c84cc6851de92b2",
+                        "mother":  "原稿/个人工具箱-闭眼笑头像.png",
+                        "mother_sha256":  "56867e802fc0b25d64545cb7657336c89a58b05970e808e7a870fcb3ca388509",
+                        "crop_pixels":  [
+                                            280,
+                                            375,
+                                            246,
+                                            246
+                                        ],
+                        "rounded_corner_radius_pixels":  28,
+                        "ico":  "个人工具箱/icon.ico",
+                        "sizes":  [
+                                      16,
+                                      20,
+                                      24,
+                                      32,
+                                      40,
+                                      48,
+                                      64,
+                                      96,
+                                      128,
+                                      256
+                                  ],
+                        "margin":  "1/32, at least 1px",
+                        "sha256":  "7583fb0c5b935e2f4e8e059c6c50875c099492a2cfe4b2a111b7f1724dcd9ab6",
+                        "png":  [
+                                    {
+                                        "file":  "个人工具箱/16.png",
+                                        "size":  16,
+                                        "sha256":  "0dea42ceac1e6fd971f71c515a0f75041c3c788997250fffc3e4aefc32b2e7f6",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        14,
+                                                        14
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/20.png",
+                                        "size":  20,
+                                        "sha256":  "54f27a67d130066ed2219589cc96168ae668bf8f7f0f91a98e587df5a0171e53",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        18,
+                                                        18
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/24.png",
+                                        "size":  24,
+                                        "sha256":  "8578912c04af85cc8818d94c4b76b38bf25f1ab6a9c810f27403ab40e1f135fa",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        22,
+                                                        22
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/32.png",
+                                        "size":  32,
+                                        "sha256":  "f586052caec442c22ede13c4058c7a42a0850c9ed3eb86458e9b7569880d0781",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        30,
+                                                        30
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/40.png",
+                                        "size":  40,
+                                        "sha256":  "d8341b4a2d1a7a5cbfe579ca190578b2273936506ec7dbf687b5f721f88b78a7",
+                                        "visible":  [
+                                                        1,
+                                                        1,
+                                                        38,
+                                                        38
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/48.png",
+                                        "size":  48,
+                                        "sha256":  "1016ca00887edc345686a975028a4cf0015db0a30c3b87d62a9c95d322f85247",
+                                        "visible":  [
+                                                        2,
+                                                        2,
+                                                        44,
+                                                        44
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/64.png",
+                                        "size":  64,
+                                        "sha256":  "66891bfdbbefc8e1c167cc8498a94b71424b2b98fac6ddd90fca747d3d621870",
+                                        "visible":  [
+                                                        2,
+                                                        2,
+                                                        60,
+                                                        60
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/96.png",
+                                        "size":  96,
+                                        "sha256":  "e5a66e17e006c80bd0cb1fccf02543e5ad1cbab93e3e2ef4c712763e56bf62fb",
+                                        "visible":  [
+                                                        3,
+                                                        3,
+                                                        90,
+                                                        90
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/128.png",
+                                        "size":  128,
+                                        "sha256":  "c56342c2975560a4c4a5fd7af5500947f6352876dddb8dd8ca7e9acd668bbe43",
+                                        "visible":  [
+                                                        4,
+                                                        4,
+                                                        120,
+                                                        120
+                                                    ]
+                                    },
+                                    {
+                                        "file":  "个人工具箱/256.png",
+                                        "size":  256,
+                                        "sha256":  "d9810038d5fb63263aee6f00e20b517715f4c5b364540736533ede62a714d17d",
+                                        "visible":  [
+                                                        8,
+                                                        8,
+                                                        240,
+                                                        240
+                                                    ]
+                                    }
+                                ]
                     }
                 ]
 }
