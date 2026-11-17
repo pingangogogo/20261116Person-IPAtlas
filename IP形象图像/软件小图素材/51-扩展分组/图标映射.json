@@ -1,0 +1,831 @@
+{
+  "version": 1,
+  "type": "generated-group-glyphs",
+  "count": 30,
+  "generator": "image_gen",
+  "atlas": "原稿/glyph-atlas.png",
+  "atlas_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574",
+  "grid": {
+    "columns": 6,
+    "rows": 5,
+    "cell": 229
+  },
+  "references": [
+    "IP形象图像/软件小图素材/44-分组图标/原稿/44-07-系统.png",
+    "IP形象图像/软件小图素材/44-分组图标/原稿/44-03-开发.png",
+    "IP形象图像/软件小图素材/44-分组图标/原稿/44-08-项目.png"
+  ],
+  "description": "新增30个暖棕描边、橄榄米黄赭色水彩图标。透明6列5行atlas保留；按Alpha连通区域的格中心归属拆分，完整保留物件和合法分离部件，避免格线边缘碎片；128px导出主体居中，边距10px。",
+  "entries": [
+    {
+      "token": "extra-01",
+      "theme": "工程",
+      "name": "i-extra-01.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        0,
+        0
+      ],
+      "cell_rect": [
+        0,
+        0,
+        229,
+        229
+      ],
+      "crop_rect": [
+        60,
+        50,
+        159,
+        177
+      ],
+      "export": "128/i-extra-01.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "2a08dfc925be6839dce0576c6d205921ee7f0d71aa8404820b7e1d59093ee981",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-02",
+      "theme": "设计",
+      "name": "i-extra-02.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        1,
+        0
+      ],
+      "cell_rect": [
+        229,
+        0,
+        229,
+        229
+      ],
+      "crop_rect": [
+        268,
+        61,
+        171,
+        168
+      ],
+      "export": "128/i-extra-02.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "672cf343967256e5c7b8d253e71a5820c62076bd6483d3592346086aa6119941",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-03",
+      "theme": "远程",
+      "name": "i-extra-03.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        2,
+        0
+      ],
+      "cell_rect": [
+        458,
+        0,
+        229,
+        229
+      ],
+      "crop_rect": [
+        490,
+        70,
+        170,
+        155
+      ],
+      "export": "128/i-extra-03.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "5205c6053999c604af0fd9792b105a49716b23bfce4bd44ed6489be3055e5da2",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-04",
+      "theme": "网络",
+      "name": "i-extra-04.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        3,
+        0
+      ],
+      "cell_rect": [
+        687,
+        0,
+        229,
+        229
+      ],
+      "crop_rect": [
+        717,
+        53,
+        168,
+        169
+      ],
+      "export": "128/i-extra-04.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "fc3f7c60ad07884535fd14c137fb74e85a0734ff921438c1dcc66c84bfa6e77c",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-05",
+      "theme": "投研",
+      "name": "i-extra-05.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        4,
+        0
+      ],
+      "cell_rect": [
+        916,
+        0,
+        229,
+        229
+      ],
+      "crop_rect": [
+        940,
+        55,
+        156,
+        175
+      ],
+      "export": "128/i-extra-05.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "6bccda0c7be43083aae596e5a6d92e1e9a0fb0ceecf628a1c82500bddefc2478",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-06",
+      "theme": "游戏",
+      "name": "i-extra-06.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        5,
+        0
+      ],
+      "cell_rect": [
+        1145,
+        0,
+        229,
+        229
+      ],
+      "crop_rect": [
+        1145,
+        80,
+        195,
+        135
+      ],
+      "export": "128/i-extra-06.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "e03097ae6a41190254faff02c6afeca1155a553a962d367158cfe8101f9b12a7",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-07",
+      "theme": "教育",
+      "name": "i-extra-07.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        0,
+        1
+      ],
+      "cell_rect": [
+        0,
+        229,
+        229,
+        229
+      ],
+      "crop_rect": [
+        40,
+        296,
+        188,
+        148
+      ],
+      "export": "128/i-extra-07.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "0af8d94330d040f1cc5c15dcd2ff5e3086ac583d45f43c426d214fd69abe685e",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-08",
+      "theme": "日程",
+      "name": "i-extra-08.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        1,
+        1
+      ],
+      "cell_rect": [
+        229,
+        229,
+        229,
+        229
+      ],
+      "crop_rect": [
+        273,
+        280,
+        169,
+        169
+      ],
+      "export": "128/i-extra-08.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "b13bfc89775d80be14d0b864de2179c7d84e2fa0e1f9dcd9464e18674ef9a726",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-09",
+      "theme": "健康",
+      "name": "i-extra-09.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        2,
+        1
+      ],
+      "cell_rect": [
+        458,
+        229,
+        229,
+        229
+      ],
+      "crop_rect": [
+        490,
+        284,
+        177,
+        162
+      ],
+      "export": "128/i-extra-09.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "492c8b1fe96bcc696c02ee5f3e500922f096b29374ad85c025da302b8ec60398",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-10",
+      "theme": "摄影",
+      "name": "i-extra-10.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        3,
+        1
+      ],
+      "cell_rect": [
+        687,
+        229,
+        229,
+        229
+      ],
+      "crop_rect": [
+        707,
+        286,
+        180,
+        163
+      ],
+      "export": "128/i-extra-10.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "5b1ded8bb644b8ecfcd38e19c6003170cef3ce5901a6711c7cf2c4ec7e929a2e",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-11",
+      "theme": "音乐",
+      "name": "i-extra-11.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        4,
+        1
+      ],
+      "cell_rect": [
+        916,
+        229,
+        229,
+        229
+      ],
+      "crop_rect": [
+        921,
+        281,
+        191,
+        165
+      ],
+      "export": "128/i-extra-11.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "db6f211063049d3b5511abee0f45c44377f19c7abd3d8756587470aab5baf006",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-12",
+      "theme": "写作",
+      "name": "i-extra-12.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        5,
+        1
+      ],
+      "cell_rect": [
+        1145,
+        229,
+        229,
+        229
+      ],
+      "crop_rect": [
+        1171,
+        274,
+        154,
+        182
+      ],
+      "export": "128/i-extra-12.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "fc1a66fa403682ac965296a8ea1fb1969577dbc843881deab0b4b8227b6c5da7",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-13",
+      "theme": "阅读",
+      "name": "i-extra-13.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        0,
+        2
+      ],
+      "cell_rect": [
+        0,
+        458,
+        229,
+        229
+      ],
+      "crop_rect": [
+        41,
+        514,
+        197,
+        152
+      ],
+      "export": "128/i-extra-13.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "9ad9a38588a4e239837d73199e34132658edd1b8b7e67ade6a431493f49eab3a",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-14",
+      "theme": "旅行",
+      "name": "i-extra-14.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        1,
+        2
+      ],
+      "cell_rect": [
+        229,
+        458,
+        229,
+        229
+      ],
+      "crop_rect": [
+        272,
+        501,
+        172,
+        165
+      ],
+      "export": "128/i-extra-14.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "891672f95db2d687fd5ef03de1c9c03ec8861192da88508567bc76f1f5abdc03",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-15",
+      "theme": "购物",
+      "name": "i-extra-15.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        2,
+        2
+      ],
+      "cell_rect": [
+        458,
+        458,
+        229,
+        229
+      ],
+      "crop_rect": [
+        486,
+        507,
+        179,
+        160
+      ],
+      "export": "128/i-extra-15.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "80db39f14abfdc4948b742c7caa9088d3e1bacd25477e80e3a14932886d8860d",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-16",
+      "theme": "运动",
+      "name": "i-extra-16.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        3,
+        2
+      ],
+      "cell_rect": [
+        687,
+        458,
+        229,
+        229
+      ],
+      "crop_rect": [
+        702,
+        529,
+        188,
+        115
+      ],
+      "export": "128/i-extra-16.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "7c6c00f0ad9a320844b2dfe031ef85ffd5a273248e626bd7a4ef24afcd201aa6",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-17",
+      "theme": "资产",
+      "name": "i-extra-17.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        4,
+        2
+      ],
+      "cell_rect": [
+        916,
+        458,
+        229,
+        229
+      ],
+      "crop_rect": [
+        926,
+        513,
+        190,
+        150
+      ],
+      "export": "128/i-extra-17.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "df64832cb59fc1a836bfee429cd22d36253600368e97406fe2c5619f23bd6533",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-18",
+      "theme": "云服务",
+      "name": "i-extra-18.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        5,
+        2
+      ],
+      "cell_rect": [
+        1145,
+        458,
+        229,
+        229
+      ],
+      "crop_rect": [
+        1143,
+        500,
+        196,
+        163
+      ],
+      "export": "128/i-extra-18.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "6b07874c74834f4f6db5d22a94811bbc6f6bb0cfc7696f2fa639446f3c2609c3",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-19",
+      "theme": "安全",
+      "name": "i-extra-19.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        0,
+        3
+      ],
+      "cell_rect": [
+        0,
+        687,
+        229,
+        229
+      ],
+      "crop_rect": [
+        53,
+        718,
+        163,
+        177
+      ],
+      "export": "128/i-extra-19.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "96e865db1fd79257f19c9ed2f614e96e33c130074b8a6b24f48b99ba567c20c8",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-20",
+      "theme": "数据库",
+      "name": "i-extra-20.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        1,
+        3
+      ],
+      "cell_rect": [
+        229,
+        687,
+        229,
+        229
+      ],
+      "crop_rect": [
+        280,
+        721,
+        148,
+        168
+      ],
+      "export": "128/i-extra-20.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "38886b707f3235d78a9e4956b31b0e31c8dd42fe74bb9462becdc99fa171061b",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-21",
+      "theme": "终端",
+      "name": "i-extra-21.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        2,
+        3
+      ],
+      "cell_rect": [
+        458,
+        687,
+        229,
+        229
+      ],
+      "crop_rect": [
+        483,
+        731,
+        178,
+        147
+      ],
+      "export": "128/i-extra-21.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "7f9d1b6029dea648e35220a25f46593a11ca6fe96daf6aec4a97acfa473eb30b",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-22",
+      "theme": "数据分析",
+      "name": "i-extra-22.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        3,
+        3
+      ],
+      "cell_rect": [
+        687,
+        687,
+        229,
+        229
+      ],
+      "crop_rect": [
+        703,
+        729,
+        185,
+        156
+      ],
+      "export": "128/i-extra-22.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "12c2bf614af036c228d9d751e21ce5e94bbb0825770c70e3a9a06791aa6f6c29",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-23",
+      "theme": "自动化",
+      "name": "i-extra-23.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        4,
+        3
+      ],
+      "cell_rect": [
+        916,
+        687,
+        229,
+        229
+      ],
+      "crop_rect": [
+        929,
+        717,
+        185,
+        169
+      ],
+      "export": "128/i-extra-23.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "0794b2b5ab718076943397194c5d8f746fbbdee633b774bdcfb2b08395e13f15",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-24",
+      "theme": "硬件",
+      "name": "i-extra-24.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        5,
+        3
+      ],
+      "cell_rect": [
+        1145,
+        687,
+        229,
+        229
+      ],
+      "crop_rect": [
+        1155,
+        716,
+        179,
+        174
+      ],
+      "export": "128/i-extra-24.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "101e26bfb458b0bcc4a384db447b46e289ef720c3bd83b6fad3798d1750a18a5",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-25",
+      "theme": "文档",
+      "name": "i-extra-25.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        0,
+        4
+      ],
+      "cell_rect": [
+        0,
+        916,
+        229,
+        229
+      ],
+      "crop_rect": [
+        54,
+        944,
+        168,
+        168
+      ],
+      "export": "128/i-extra-25.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "4ab01b548d89fbf522c945850e5185ff5c3fe1750ba059a51d98207298d89a86",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-26",
+      "theme": "知识库",
+      "name": "i-extra-26.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        1,
+        4
+      ],
+      "cell_rect": [
+        229,
+        916,
+        229,
+        229
+      ],
+      "crop_rect": [
+        265,
+        957,
+        182,
+        147
+      ],
+      "export": "128/i-extra-26.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "1a3c722a91f88d8aa526f2888a972ef7263aca7a9bc107c10f4019bb174ec6c5",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-27",
+      "theme": "下载",
+      "name": "i-extra-27.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        2,
+        4
+      ],
+      "cell_rect": [
+        458,
+        916,
+        229,
+        229
+      ],
+      "crop_rect": [
+        493,
+        950,
+        159,
+        155
+      ],
+      "export": "128/i-extra-27.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "cbcc68b9f139e073fbcfe10f86aeaf099e2d4f3cb3ce48c22132d4be97390ba7",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-28",
+      "theme": "备份",
+      "name": "i-extra-28.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        3,
+        4
+      ],
+      "cell_rect": [
+        687,
+        916,
+        229,
+        229
+      ],
+      "crop_rect": [
+        696,
+        944,
+        173,
+        167
+      ],
+      "export": "128/i-extra-28.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "1170e6b61eb412493a849c786cdfd983095276e1b77f0c8f2506414f5d8dc64f",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-29",
+      "theme": "团队",
+      "name": "i-extra-29.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        4,
+        4
+      ],
+      "cell_rect": [
+        916,
+        916,
+        229,
+        229
+      ],
+      "crop_rect": [
+        918,
+        970,
+        196,
+        122
+      ],
+      "export": "128/i-extra-29.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "b69106707933d25461a9b9493fee1dca75cf14370fdfc615a2df8d1a530807ec",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    },
+    {
+      "token": "extra-30",
+      "theme": "灵感",
+      "name": "i-extra-30.png",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/glyph-atlas.png",
+      "cell": [
+        5,
+        4
+      ],
+      "cell_rect": [
+        1145,
+        916,
+        229,
+        229
+      ],
+      "crop_rect": [
+        1181,
+        931,
+        121,
+        182
+      ],
+      "export": "128/i-extra-30.png",
+      "size": 128,
+      "margin": 10,
+      "sha256": "fb76b8fab7da58e70e1f1a4b4fca08c9f85aa73d6669d1744633ce97b7718c91",
+      "source_sha256": "c7c2c8544ef5299d589de3b6f9c0d9b3ec0516e4c770b0fd4d826e6ebf983574"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "version": 1,
+  "type": "generated-and-existing-transparent-characters",
+  "count": 30,
+  "description": "前6张为image_gen新增专业主题全身角色（工程、设计、远程、网络、投研、游戏），保留3列2行透明atlas与参考SHA；后24张沿用既有透明全身图，不修改原稿。",
+  "size": 400,
+  "padding": 0.04,
+  "alpha_floor": 6,
+  "alpha_solid": 250,
+  "entries": [
+    {
+      "art": "extra-01",
+      "name": "s-extra-01.png",
+      "category": "工程",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/role-atlas.png",
+      "source_sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+      "export": "400/s-extra-01.png",
+      "sha256": "A0410A149F6731687BF77711ED976789371EC8CFCA313FF897BB80421A48AB0E",
+      "size": 400,
+      "padding": 0.04,
+      "source_kind": "generated-atlas-cell",
+      "source_cell": [
+        0,
+        0
+      ],
+      "source_cell_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "crop_rect": [
+        140,
+        16,
+        263,
+        482
+      ],
+      "references": [
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+          "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+          "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+          "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF"
+        }
+      ],
+      "width": 218,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-02",
+      "name": "s-extra-02.png",
+      "category": "设计",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/role-atlas.png",
+      "source_sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+      "export": "400/s-extra-02.png",
+      "sha256": "EEB3A7477D5674E43F8720CB546CAF8D9ED6AC120A42775EA42ADF93DE5D4BCC",
+      "size": 400,
+      "padding": 0.04,
+      "source_kind": "generated-atlas-cell",
+      "source_cell": [
+        1,
+        0
+      ],
+      "source_cell_rect": [
+        512,
+        0,
+        512,
+        512
+      ],
+      "crop_rect": [
+        638,
+        17,
+        251,
+        481
+      ],
+      "references": [
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+          "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+          "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+          "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF"
+        }
+      ],
+      "width": 209,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-03",
+      "name": "s-extra-03.png",
+      "category": "远程",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/role-atlas.png",
+      "source_sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+      "export": "400/s-extra-03.png",
+      "sha256": "EFCBEFC12250CFFCABBB09C24A7C8062092CD137394C0F5161181C3B3723F425",
+      "size": 400,
+      "padding": 0.04,
+      "source_kind": "generated-atlas-cell",
+      "source_cell": [
+        2,
+        0
+      ],
+      "source_cell_rect": [
+        1024,
+        0,
+        512,
+        512
+      ],
+      "crop_rect": [
+        1143,
+        17,
+        238,
+        481
+      ],
+      "references": [
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+          "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+          "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+          "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF"
+        }
+      ],
+      "width": 198,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-04",
+      "name": "s-extra-04.png",
+      "category": "网络",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/role-atlas.png",
+      "source_sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+      "export": "400/s-extra-04.png",
+      "sha256": "15BA3381FB0EF8FD31497FEAAABCAC0DA6D19F16BCD3282C7598152A27DA6AE9",
+      "size": 400,
+      "padding": 0.04,
+      "source_kind": "generated-atlas-cell",
+      "source_cell": [
+        0,
+        1
+      ],
+      "source_cell_rect": [
+        0,
+        512,
+        512,
+        512
+      ],
+      "crop_rect": [
+        144,
+        527,
+        254,
+        483
+      ],
+      "references": [
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+          "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+          "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+          "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF"
+        }
+      ],
+      "width": 210,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-05",
+      "name": "s-extra-05.png",
+      "category": "投研",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/role-atlas.png",
+      "source_sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+      "export": "400/s-extra-05.png",
+      "sha256": "8FF59D17F16E8F1D9A3A9053AEBCB9ED55E1E7794CE35CCC972AE64721549B89",
+      "size": 400,
+      "padding": 0.04,
+      "source_kind": "generated-atlas-cell",
+      "source_cell": [
+        1,
+        1
+      ],
+      "source_cell_rect": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "crop_rect": [
+        626,
+        530,
+        261,
+        480
+      ],
+      "references": [
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+          "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+          "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+          "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF"
+        }
+      ],
+      "width": 217,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-06",
+      "name": "s-extra-06.png",
+      "category": "游戏",
+      "source": "IP形象图像/软件小图素材/51-扩展分组/原稿/role-atlas.png",
+      "source_sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+      "export": "400/s-extra-06.png",
+      "sha256": "802ABFE6AB755331946F4BF25E018D111F4DEB426C985B5FC90C68FC4B903F56",
+      "size": 400,
+      "padding": 0.04,
+      "source_kind": "generated-atlas-cell",
+      "source_cell": [
+        2,
+        1
+      ],
+      "source_cell_rect": [
+        1024,
+        512,
+        512,
+        512
+      ],
+      "crop_rect": [
+        1147,
+        532,
+        239,
+        478
+      ],
+      "references": [
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-01-自研.png",
+          "sha256": "8086325B15FC552B5F8999B465DB1FCEB847081A0BCA317D66A9CA449E3540D6"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-07-系统.png",
+          "sha256": "112171AFBF6C3C463D0FC704CC281F966A6D4B67837CFEF198733831A0E8D12F"
+        },
+        {
+          "source": "IP形象图像/软件小图素材/43-分组角色/原稿/43-08-项目.png",
+          "sha256": "CFA10C8E9E02AC14979B5BBB886EC07C953EF410DC52E30B8C7A9BADDFC153EF"
+        }
+      ],
+      "width": 200,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-07",
+      "name": "s-extra-07.png",
+      "category": "教育",
+      "source": "IP形象图像/13-一周七天/13-01-周一-还没醒.png",
+      "source_sha256": "2FED7EFB180581ED28C7E338B9CFD001F2D16EC486FE4D6D189D7491D11CB981",
+      "export": "400/s-extra-07.png",
+      "sha256": "F0D7B7FEF7867383ED3A4D7A0B0BB6FD754991416BB7376F0D61F59EE85FCFC3",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        175,
+        29,
+        777,
+        1200
+      ],
+      "width": 259,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-08",
+      "name": "s-extra-08.png",
+      "category": "日程",
+      "source": "IP形象图像/13-一周七天/13-05-周五-下班啦.png",
+      "source_sha256": "57E7D7903F805063CCB96957061F4C9A668B793474CC249291956FC59A517CE6",
+      "export": "400/s-extra-08.png",
+      "sha256": "756258F528A0F0BBC553EAA9CD4A7E576B034D89AF9587D61ACA3F8F5EA3F0A4",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        147,
+        29,
+        1011,
+        1149
+      ],
+      "width": 352,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-09",
+      "name": "s-extra-09.png",
+      "category": "健康",
+      "source": "IP形象图像/13-一周七天/13-07-周日-晒太阳.png",
+      "source_sha256": "2E8EB49A94EB84F8B5A9DE0CB36AA741B48EC474A4516940C315C3AFDA5809FE",
+      "export": "400/s-extra-09.png",
+      "sha256": "3BE4F1526E669097C55FFC091AE9EFA0C43AD66D727953599BCFD5400FF4A73D",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        51,
+        99,
+        1153,
+        1086
+      ],
+      "width": 400,
+      "height": 377,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-10",
+      "name": "s-extra-10.png",
+      "category": "摄影",
+      "source": "IP形象图像/17-天气/17-01-晴.png",
+      "source_sha256": "D081926108A4618AE0E6B9FD9D55FE3E32C3D62512EFA08A39B7491EE52BE8FE",
+      "export": "400/s-extra-10.png",
+      "sha256": "6A72978335E61911178591A979AD32687459FDD1D012BCA3BE75DC0547B7C09F",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        195,
+        27,
+        934,
+        1205
+      ],
+      "width": 310,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-11",
+      "name": "s-extra-11.png",
+      "category": "音乐",
+      "source": "IP形象图像/25-运动与户外/25-11-跳绳.png",
+      "source_sha256": "35D42DF91A58A491C36912A3858223327B97F9A339796519E5BEA24E35621820",
+      "export": "400/s-extra-11.png",
+      "sha256": "ACA394D135F306A15BD0A7236801B8C6A0BFA8C2FD3BC4E4BC69AB0A91BAD268",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        150,
+        18,
+        913,
+        1220
+      ],
+      "width": 299,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-12",
+      "name": "s-extra-12.png",
+      "category": "写作",
+      "source": "IP形象图像/17-天气/17-04-小雨.png",
+      "source_sha256": "68CEB6C741A6E7DB83FEE15279DC904FF8A9D042DF63893261A3073BDC1C8E41",
+      "export": "400/s-extra-12.png",
+      "sha256": "4B0543D5BC4A3F2EC30FF733841E15EBF425965FC5F18B5BA00B699B08509581",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        217,
+        52,
+        865,
+        1171
+      ],
+      "width": 295,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-13",
+      "name": "s-extra-13.png",
+      "category": "阅读",
+      "source": "IP形象图像/17-天气/17-07-雪.png",
+      "source_sha256": "3844958CA315DF47877C89109C822D92DFA75991BBCAE2C0D48957EBCD01FBF3",
+      "export": "400/s-extra-13.png",
+      "sha256": "223FABD46BC9DA984E5ACB6E622C9EC0056797841BF0B9DFCDD75BA42A0CF574",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        134,
+        21,
+        963,
+        1186
+      ],
+      "width": 325,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-14",
+      "name": "s-extra-14.png",
+      "category": "旅行",
+      "source": "IP形象图像/17-天气/17-12-彩虹.png",
+      "source_sha256": "8006D3264C5B959914DFDAC49C6E35ED6A40E5D4F5CE3EEF1ED8EFA495BF80EC",
+      "export": "400/s-extra-14.png",
+      "sha256": "1F85C9C9BB00B86220F7ACAD454BC67386B96F9D449D907C4A5DD23E0547474D",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        115,
+        67,
+        939,
+        1126
+      ],
+      "width": 334,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-15",
+      "name": "s-extra-15.png",
+      "category": "购物",
+      "source": "IP形象图像/25-运动与户外/25-06-乒乓球.png",
+      "source_sha256": "3C42EE837146ADE2E66D4EC6FEB2AB844B6F062F0BD64FCF35F42247B03C65B6",
+      "export": "400/s-extra-15.png",
+      "sha256": "8E21C23B998966DB90E395AD794A56763E08B1C72FC82F2201BCA856D12BC418",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        62,
+        79,
+        987,
+        1117
+      ],
+      "width": 353,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-16",
+      "name": "s-extra-16.png",
+      "category": "运动",
+      "source": "IP形象图像/19-问候与祝福/19-02-中午好.png",
+      "source_sha256": "050815B38F00ED9CAF2FF23ACE591236065EAD1A006F55E45B0D530983DA51B2",
+      "export": "400/s-extra-16.png",
+      "sha256": "3EFF425A08BC8775C47C2723C86FDCD0DA2F08D32B1C9F12A4A357BF6E0DAE76",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        325,
+        12,
+        603,
+        1107
+      ],
+      "width": 218,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-17",
+      "name": "s-extra-17.png",
+      "category": "资产",
+      "source": "IP形象图像/19-问候与祝福/19-03-晚上好.png",
+      "source_sha256": "B3D6FE8CBD005CE2A656F901C65CE05B03625E2A574A817C67997485B857625A",
+      "export": "400/s-extra-17.png",
+      "sha256": "F4E563DC51B35E3D2E36A78A82C4C06F3D1FEED858252C672E4E008751652A67",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        196,
+        19,
+        771,
+        996
+      ],
+      "width": 310,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-18",
+      "name": "s-extra-18.png",
+      "category": "云服务",
+      "source": "IP形象图像/19-问候与祝福/19-06-再见.png",
+      "source_sha256": "3983776C055ABF33F1993C2F6EC83121B1312AEE03EFD56A6C7784BDCF2CEB31",
+      "export": "400/s-extra-18.png",
+      "sha256": "54A4BC46157E9004A896FBF6FDF35FBEB7F62DBF641FFC6512D25D7B9329E8C0",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        275,
+        36,
+        666,
+        1132
+      ],
+      "width": 235,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-19",
+      "name": "s-extra-19.png",
+      "category": "安全",
+      "source": "IP形象图像/19-问候与祝福/19-07-谢谢.png",
+      "source_sha256": "CA332AF81BFF1510496EB22FE7F23F02EBF4432FE7516017BCC253509E04D1B9",
+      "export": "400/s-extra-19.png",
+      "sha256": "DACFC765A0CE3006DECB6CD6FDA404F8D1951402AD78B3155CF55C8BA3524079",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        291,
+        64,
+        644,
+        1046
+      ],
+      "width": 246,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-20",
+      "name": "s-extra-20.png",
+      "category": "数据库",
+      "source": "IP形象图像/19-问候与祝福/19-08-辛苦了.png",
+      "source_sha256": "CBD7F431A728DE59D93851B12C8921C224A2AE7B40303D15762CE4818F0390F4",
+      "export": "400/s-extra-20.png",
+      "sha256": "C5E41790288EA12CF962B0C3C58BA0828B74051940F2FB6268DFEDEE82C22F55",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        309,
+        25,
+        704,
+        1151
+      ],
+      "width": 245,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-21",
+      "name": "s-extra-21.png",
+      "category": "终端",
+      "source": "IP形象图像/19-问候与祝福/19-10-恭喜.png",
+      "source_sha256": "587D65933940554549A8CEE6ECD9CECFE9FA03B7E4250E09EF6051F15D039BD0",
+      "export": "400/s-extra-21.png",
+      "sha256": "64772AA3DD39651DC21305F3042B4CCBABFB318BD87E2EF3BD3603D6B86410D4",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        158,
+        105,
+        814,
+        948
+      ],
+      "width": 343,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-22",
+      "name": "s-extra-22.png",
+      "category": "数据分析",
+      "source": "IP形象图像/19-问候与祝福/19-15-欢迎回来.png",
+      "source_sha256": "DEC04567CC3E7FB556DC46DDCD35EDA41632DDA19FB5F7B1A9EDDD69670F47C5",
+      "export": "400/s-extra-22.png",
+      "sha256": "8A55D94278DC6CABACC3C6A791B059017F248146E91478D593A44441A3B9B1F9",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        82,
+        39,
+        1061,
+        1183
+      ],
+      "width": 359,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-23",
+      "name": "s-extra-23.png",
+      "category": "自动化",
+      "source": "IP形象图像/19-问候与祝福/19-16-我出门了.png",
+      "source_sha256": "47FF8FBE5820D537469B5D63B3EF5EDB8145C40F47B5E4910A0BC38D47FF3C00",
+      "export": "400/s-extra-23.png",
+      "sha256": "97BB172766F5B7F5DA803AAE73E28579AAEE322F2AF7DC6FBBE49A10D5C0B848",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        251,
+        24,
+        725,
+        1145
+      ],
+      "width": 253,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-24",
+      "name": "s-extra-24.png",
+      "category": "硬件",
+      "source": "IP形象图像/25-运动与户外/25-10-滑冰.png",
+      "source_sha256": "6DE5CA4073F3A7592EE8AEDD5CF5FE29F40250553914B61507993E3F794C96AA",
+      "export": "400/s-extra-24.png",
+      "sha256": "6C85545FFDEE0DFC73472CD5216551BC5BC9BA03997EB20AB8748859A7B05D34",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        50,
+        44,
+        1111,
+        1175
+      ],
+      "width": 378,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-25",
+      "name": "s-extra-25.png",
+      "category": "文档",
+      "source": "IP形象图像/25-运动与户外/25-01-晨跑.png",
+      "source_sha256": "AA317B32E974D67AD82DDB82AFAE165513D7CD396A756D169892CFA992AE31A7",
+      "export": "400/s-extra-25.png",
+      "sha256": "48F83301819438494208BE623D8E9677DA9740C3DBE8B491EF421D01B8108701",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        203,
+        24,
+        814,
+        1214
+      ],
+      "width": 268,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-26",
+      "name": "s-extra-26.png",
+      "category": "知识库",
+      "source": "IP形象图像/25-运动与户外/25-02-拉伸.png",
+      "source_sha256": "AF3AF5E9601264159F022194DFAF2D80CA6D0E083DF8A8F0822FEF0D5FAACD17",
+      "export": "400/s-extra-26.png",
+      "sha256": "A1B6FA49C2B1E24E490D4B6181EB956BAD28EF0B103C59EECEF5617E7DBB8F82",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        227,
+        21,
+        789,
+        1187
+      ],
+      "width": 266,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-27",
+      "name": "s-extra-27.png",
+      "category": "下载",
+      "source": "IP形象图像/25-运动与户外/25-04-骑自行车.png",
+      "source_sha256": "00053F9C4599A7452ECA4D1415B3C93D887E4F1FD7CEA7061E09F9E93D9B8B98",
+      "export": "400/s-extra-27.png",
+      "sha256": "D88E653C0EB051810BF4812A94EA99504FFF1B37DB0EB916DCF2B825BF16A1D2",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        153,
+        67,
+        925,
+        1172
+      ],
+      "width": 316,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-28",
+      "name": "s-extra-28.png",
+      "category": "备份",
+      "source": "IP形象图像/25-运动与户外/25-05-羽毛球.png",
+      "source_sha256": "AAAA2BEE36D0C1B50347565B5874FBB7C6884F766CA4514D5F733DDDA05AD4EE",
+      "export": "400/s-extra-28.png",
+      "sha256": "560E63A46F1136873A8916E788131E51E0A32AB9BD5B30F6E0822D20F8F03528",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        316,
+        27,
+        683,
+        1198
+      ],
+      "width": 228,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-29",
+      "name": "s-extra-29.png",
+      "category": "团队",
+      "source": "IP形象图像/25-运动与户外/25-09-滑雪.png",
+      "source_sha256": "C1E0882D29EB0D2A1FBEF2AF2FEF1187325AB9E8346BC16837F5DFF0CD35F0D9",
+      "export": "400/s-extra-29.png",
+      "sha256": "7B2A2845C703483849B940200EAA75157C5D278D38EC5D4AA6BDFA2064E222A5",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        105,
+        17,
+        1096,
+        1214
+      ],
+      "width": 361,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    },
+    {
+      "art": "extra-30",
+      "name": "s-extra-30.png",
+      "category": "灵感",
+      "source": "IP形象图像/36-伙伴与小物/36-06-她和麻雀.png",
+      "source_sha256": "DC94B68986BAC1AA757816BEF07731E1905B8651CF96247DFB8FA8093AA8DB2E",
+      "export": "400/s-extra-30.png",
+      "sha256": "CF2AAA4C8F9EE10312CC56F6A6884ECADC65E56C6C87199D9EBF103FF421E5BC",
+      "size": 400,
+      "padding": 0.04,
+      "source_content": [
+        242,
+        34,
+        796,
+        1192
+      ],
+      "width": 267,
+      "height": 400,
+      "long_side": 400,
+      "trim_mode": "content bbox + 4% each side, long side400; Floor6/Solid250"
+    }
+  ],
+  "generated_atlas": {
+    "source": "原稿/role-atlas.png",
+    "sha256": "AE6BE72CFAB0E5B74E9615B813D0C97FB2E62B37C1FA76977B78E9B6184CC14B",
+    "columns": 3,
+    "rows": 2,
+    "cell": 512,
+    "new_designs": 6
+  }
+}
